@@ -1,0 +1,1001 @@
+nome,regiao,item1,item2,item3,item4,item5
+usuario0001,Tabatinga,Quiabo,Jiló,Lichia,Pimentão,Uva
+usuario0002,Sobradinho,Repolho,Berinjela,Gengibre,Tangerina,Abóbora
+usuario0003,Paranoá,Jiló,Banana,Limão,Repolho,Beterraba
+usuario0004,Plano Piloto,Tangerina,Banana,Graviola,Abóbora,Chuchu
+usuario0005,PAD-DF,Tomate,Mamão,Coco,Batata,Repolho
+usuario0006,Paranoá,Morango,Banana,Cenoura,Atemóia,Lichia
+usuario0007,Tabatinga,Banana,Gengibre,Berinjela,Pitaia,Agrião
+usuario0008,Jardim,Morango,Abacate,Agrião,Abóbora,Beterraba
+usuario0009,Taquara,Uva,Tomate,Pepino,Brócolis,Couve
+usuario0010,Vargem Bonita,Brócolis,Mandioca,Chuchu,Pimentão,Repolho
+usuario0011,Alexandre Gusmão,Maracujá,Abacate,Quiabo,Abóbora,Manga
+usuario0012,Planaltina,Berinjela,Chuchu,Pimentão,Repolho,Limão
+usuario0013,São Sebastião,Goiaba,Maracujá,Pimentão,Mandioca,Gengibre
+usuario0014,Ceilândia,Beterraba,Brócolis,Quiabo,Agrião,Maracujá
+usuario0015,Plano Piloto,Cenoura,Chuchu,Banana,Cajamanga,Abacate
+usuario0016,PAD-DF,Cenoura,Lichia,Abóbora,Couve,Berinjela
+usuario0017,Vargem Bonita,Cenoura,Graviola,Uva,Abacate,Repolho
+usuario0018,Taquara,Coco,Jiló,Graviola,Tangerina,Atemóia
+usuario0019,Gama,Batata,Beterraba,Cebola,Berinjela,Abacate
+usuario0020,Taquara,Tomate,Morango,Abacate,Berinjela,Agrião
+usuario0021,Tabatinga,Tangerina,Pimentão,Manga,Brócolis,Limão
+usuario0022,Jardim,Alface,Atemóia,Tangerina,Lichia,Manga
+usuario0023,Vargem Bonita,Cenoura,Beterraba,Pimentão,Morango,Atemóia
+usuario0024,Gama,Chuchu,Tomate,Repolho,Cenoura,Coco
+usuario0025,Pipiripau,Graviola,Batata,Pitaia,Mamão,Manga
+usuario0026,PAD-DF,Alface,Beterraba,Graviola,Abacate,Agrião
+usuario0027,Gama,Coco,Tomate,Lichia,Maracujá,Cenoura
+usuario0028,Jardim,Jiló,Goiaba,Gengibre,Batata,Mamão
+usuario0029,Vargem Bonita,Gengibre,Abóbora,Abacate,Quiabo,Pitaia
+usuario0030,Sobradinho,Tomate,Gengibre,Atemóia,Mamão,Coco
+usuario0031,Paranoá,Chuchu,Abacate,Beterraba,Cebola,Repolho
+usuario0032,Paranoá,Banana,Jiló,Limão,Quiabo,Alface
+usuario0033,Plano Piloto,Abóbora,Atemóia,Cajamanga,Morango,Pepino
+usuario0034,Paranoá,Atemóia,Agrião,Pepino,Brócolis,Batata
+usuario0035,Vargem Bonita,Cebola,Tomate,Beterraba,Abóbora,Atemóia
+usuario0036,Jardim,Limão,Cebola,Quiabo,Berinjela,Morango
+usuario0037,Sobradinho,Quiabo,Gengibre,Batata,Couve,Banana
+usuario0038,Tabatinga,Repolho,Atemóia,Abacate,Quiabo,Chuchu
+usuario0039,Brazlândia,Atemóia,Coco,Mamão,Graviola,Cajamanga
+usuario0040,Plano Piloto,Quiabo,Agrião,Uva,Chuchu,Tomate
+usuario0041,Alexandre Gusmão,Mamão,Goiaba,Brócolis,Repolho,Limão
+usuario0042,Alexandre Gusmão,Coco,Goiaba,Tangerina,Manga,Berinjela
+usuario0043,Pipiripau,Couve,Jiló,Atemóia,Cenoura,Limão
+usuario0044,Ceilândia,Mamão,Tangerina,Jiló,Goiaba,Cebola
+usuario0045,Sobradinho,Cenoura,Quiabo,Abacate,Cajamanga,Tomate
+usuario0046,Gama,Mandioca,Agrião,Graviola,Uva,Couve
+usuario0047,Paranoá,Cenoura,Gengibre,Tangerina,Beterraba,Abacate
+usuario0048,Brazlândia,Mandioca,Berinjela,Manga,Chuchu,Mamão
+usuario0049,Gama,Chuchu,Quiabo,Pimentão,Cenoura,Batata
+usuario0050,Plano Piloto,Gengibre,Repolho,Morango,Pitaia,Cenoura
+usuario0051,Paranoá,Repolho,Cajamanga,Agrião,Abacate,Graviola
+usuario0052,Jardim,Jiló,Batata,Tangerina,Morango,Beterraba
+usuario0053,Brazlândia,Mamão,Maracujá,Goiaba,Atemóia,Morango
+usuario0054,Alexandre Gusmão,Maracujá,Agrião,Coco,Quiabo,Morango
+usuario0055,PAD-DF,Abacate,Abóbora,Atemóia,Beterraba,Maracujá
+usuario0056,Alexandre Gusmão,Lichia,Manga,Abóbora,Cenoura,Morango
+usuario0057,Taquara,Goiaba,Agrião,Quiabo,Cenoura,Limão
+usuario0058,Planaltina,Uva,Chuchu,Lichia,Limão,Cajamanga
+usuario0059,PAD-DF,Berinjela,Agrião,Gengibre,Pepino,Pitaia
+usuario0060,PAD-DF,Cebola,Goiaba,Repolho,Jiló,Atemóia
+usuario0061,Plano Piloto,Cenoura,Cajamanga,Limão,Lichia,Quiabo
+usuario0062,Paranoá,Cebola,Pepino,Atemóia,Gengibre,Abóbora
+usuario0063,Gama,Mandioca,Batata,Lichia,Mamão,Gengibre
+usuario0064,Brazlândia,Brócolis,Cebola,Mandioca,Gengibre,Agrião
+usuario0065,Ceilândia,Mandioca,Graviola,Banana,Atemóia,Manga
+usuario0066,PAD-DF,Banana,Brócolis,Jiló,Manga,Quiabo
+usuario0067,Planaltina,Gengibre,Mamão,Tangerina,Mandioca,Uva
+usuario0068,Brazlândia,Mandioca,Uva,Repolho,Beterraba,Chuchu
+usuario0069,São Sebastião,Goiaba,Alface,Chuchu,Gengibre,Atemóia
+usuario0070,Taquara,Mandioca,Abóbora,Manga,Coco,Limão
+usuario0071,Brazlândia,Goiaba,Abóbora,Limão,Tomate,Tangerina
+usuario0072,PAD-DF,Tangerina,Graviola,Abóbora,Beterraba,Manga
+usuario0073,Paranoá,Tomate,Atemóia,Graviola,Couve,Goiaba
+usuario0074,Brazlândia,Gengibre,Graviola,Lichia,Pitaia,Manga
+usuario0075,PAD-DF,Abacate,Mamão,Tomate,Beterraba,Manga
+usuario0076,Taquara,Beterraba,Abacate,Morango,Agrião,Gengibre
+usuario0077,Paranoá,Couve,Beterraba,Gengibre,Goiaba,Tangerina
+usuario0078,Gama,Jiló,Limão,Mamão,Agrião,Couve
+usuario0079,PAD-DF,Brócolis,Morango,Agrião,Uva,Abóbora
+usuario0080,Alexandre Gusmão,Jiló,Tangerina,Cajamanga,Agrião,Gengibre
+usuario0081,PAD-DF,Quiabo,Alface,Cajamanga,Gengibre,Pepino
+usuario0082,Planaltina,Limão,Banana,Goiaba,Cajamanga,Alface
+usuario0083,Sobradinho,Cenoura,Abóbora,Cajamanga,Lichia,Limão
+usuario0084,Brazlândia,Lichia,Morango,Cebola,Cajamanga,Pepino
+usuario0085,Planaltina,Tomate,Uva,Chuchu,Abacate,Coco
+usuario0086,Paranoá,Pimentão,Mamão,Brócolis,Coco,Pepino
+usuario0087,Sobradinho,Pepino,Maracujá,Abacate,Couve,Lichia
+usuario0088,Brazlândia,Cenoura,Agrião,Pepino,Maracujá,Atemóia
+usuario0089,Taquara,Agrião,Abacate,Batata,Abóbora,Limão
+usuario0090,São Sebastião,Chuchu,Manga,Lichia,Pitaia,Pimentão
+usuario0091,São Sebastião,Banana,Abacate,Quiabo,Berinjela,Repolho
+usuario0092,Alexandre Gusmão,Manga,Graviola,Gengibre,Agrião,Pepino
+usuario0093,Ceilândia,Jiló,Goiaba,Gengibre,Abóbora,Limão
+usuario0094,Paranoá,Morango,Graviola,Beterraba,Cajamanga,Brócolis
+usuario0095,Taquara,Mandioca,Alface,Cajamanga,Banana,Quiabo
+usuario0096,Gama,Pimentão,Cajamanga,Manga,Maracujá,Tangerina
+usuario0097,Alexandre Gusmão,Repolho,Agrião,Pepino,Uva,Pimentão
+usuario0098,Tabatinga,Morango,Cenoura,Lichia,Maracujá,Couve
+usuario0099,Sobradinho,Mandioca,Abóbora,Brócolis,Banana,Cebola
+usuario0100,Vargem Bonita,Manga,Cebola,Tangerina,Tomate,Coco
+usuario0101,Plano Piloto,Maracujá,Coco,Beterraba,Atemóia,Jiló
+usuario0102,Paranoá,Gengibre,Pepino,Couve,Cebola,Graviola
+usuario0103,Brazlândia,Agrião,Atemóia,Brócolis,Alface,Graviola
+usuario0104,Alexandre Gusmão,Lichia,Maracujá,Abacate,Mamão,Goiaba
+usuario0105,Planaltina,Cajamanga,Coco,Mamão,Cenoura,Mandioca
+usuario0106,Planaltina,Morango,Manga,Abacate,Chuchu,Brócolis
+usuario0107,Vargem Bonita,Banana,Chuchu,Couve,Manga,Beterraba
+usuario0108,Alexandre Gusmão,Brócolis,Alface,Tomate,Couve,Uva
+usuario0109,Ceilândia,Abóbora,Uva,Abacate,Tangerina,Couve
+usuario0110,Ceilândia,Abóbora,Mandioca,Banana,Lichia,Uva
+usuario0111,Ceilândia,Mandioca,Uva,Cebola,Manga,Lichia
+usuario0112,Taquara,Graviola,Tomate,Atemóia,Goiaba,Banana
+usuario0113,Brazlândia,Couve,Jiló,Mamão,Banana,Abacate
+usuario0114,Vargem Bonita,Limão,Quiabo,Cajamanga,Maracujá,Goiaba
+usuario0115,Brazlândia,Coco,Tangerina,Abacate,Limão,Couve
+usuario0116,Alexandre Gusmão,Jiló,Couve,Quiabo,Banana,Chuchu
+usuario0117,Paranoá,Berinjela,Chuchu,Tomate,Mandioca,Coco
+usuario0118,Alexandre Gusmão,Tangerina,Batata,Repolho,Jiló,Brócolis
+usuario0119,Plano Piloto,Morango,Cebola,Coco,Manga,Abacate
+usuario0120,Paranoá,Pepino,Cajamanga,Cenoura,Abacate,Mamão
+usuario0121,Ceilândia,Morango,Cebola,Cenoura,Brócolis,Limão
+usuario0122,Sobradinho,Maracujá,Alface,Pimentão,Jiló,Repolho
+usuario0123,PAD-DF,Quiabo,Agrião,Morango,Batata,Manga
+usuario0124,Tabatinga,Repolho,Batata,Tomate,Mamão,Berinjela
+usuario0125,Brazlândia,Banana,Berinjela,Batata,Pepino,Pitaia
+usuario0126,Vargem Bonita,Gengibre,Tangerina,Uva,Abóbora,Cebola
+usuario0127,PAD-DF,Chuchu,Batata,Limão,Abacate,Lichia
+usuario0128,Gama,Brócolis,Mamão,Mandioca,Coco,Morango
+usuario0129,Alexandre Gusmão,Couve,Jiló,Repolho,Cenoura,Alface
+usuario0130,Paranoá,Tangerina,Mamão,Jiló,Batata,Morango
+usuario0131,Jardim,Abacate,Repolho,Beterraba,Brócolis,Berinjela
+usuario0132,Alexandre Gusmão,Coco,Tomate,Chuchu,Batata,Pitaia
+usuario0133,Pipiripau,Morango,Berinjela,Alface,Atemóia,Pitaia
+usuario0134,Pipiripau,Uva,Abacate,Lichia,Manga,Quiabo
+usuario0135,PAD-DF,Mandioca,Maracujá,Goiaba,Chuchu,Brócolis
+usuario0136,Planaltina,Quiabo,Tangerina,Batata,Abacate,Tomate
+usuario0137,Pipiripau,Pimentão,Jiló,Pitaia,Maracujá,Coco
+usuario0138,Taquara,Uva,Pitaia,Brócolis,Morango,Cebola
+usuario0139,Planaltina,Cenoura,Alface,Pitaia,Limão,Agrião
+usuario0140,Brazlândia,Pitaia,Berinjela,Pimentão,Chuchu,Abacate
+usuario0141,Gama,Maracujá,Banana,Cenoura,Abóbora,Quiabo
+usuario0142,Sobradinho,Tomate,Berinjela,Abóbora,Chuchu,Mandioca
+usuario0143,São Sebastião,Gengibre,Maracujá,Pitaia,Cenoura,Mamão
+usuario0144,Brazlândia,Goiaba,Cenoura,Tangerina,Mandioca,Jiló
+usuario0145,Tabatinga,Mamão,Couve,Batata,Abóbora,Cajamanga
+usuario0146,Pipiripau,Atemóia,Chuchu,Manga,Pepino,Pitaia
+usuario0147,Planaltina,Limão,Atemóia,Brócolis,Banana,Alface
+usuario0148,Jardim,Beterraba,Cenoura,Cebola,Graviola,Gengibre
+usuario0149,Planaltina,Abacate,Lichia,Tangerina,Cajamanga,Repolho
+usuario0150,Brazlândia,Batata,Manga,Berinjela,Graviola,Tangerina
+usuario0151,Ceilândia,Tomate,Pimentão,Morango,Chuchu,Tangerina
+usuario0152,Gama,Abacate,Cebola,Morango,Banana,Tangerina
+usuario0153,Brazlândia,Cebola,Pimentão,Banana,Beterraba,Berinjela
+usuario0154,Sobradinho,Couve,Coco,Berinjela,Abacate,Agrião
+usuario0155,Planaltina,Alface,Mandioca,Abóbora,Jiló,Quiabo
+usuario0156,Jardim,Lichia,Jiló,Manga,Chuchu,Maracujá
+usuario0157,Vargem Bonita,Repolho,Agrião,Goiaba,Lichia,Gengibre
+usuario0158,Pipiripau,Morango,Coco,Mamão,Jiló,Cenoura
+usuario0159,Ceilândia,Cebola,Lichia,Atemóia,Banana,Quiabo
+usuario0160,Gama,Maracujá,Limão,Berinjela,Pitaia,Cenoura
+usuario0161,Brazlândia,Lichia,Mandioca,Tomate,Abóbora,Cajamanga
+usuario0162,Vargem Bonita,Maracujá,Limão,Morango,Tangerina,Pitaia
+usuario0163,Taquara,Mandioca,Tomate,Lichia,Batata,Tangerina
+usuario0164,Gama,Batata,Atemóia,Pitaia,Coco,Pimentão
+usuario0165,São Sebastião,Limão,Maracujá,Uva,Coco,Atemóia
+usuario0166,Tabatinga,Maracujá,Pimentão,Mandioca,Cajamanga,Cenoura
+usuario0167,Pipiripau,Atemóia,Abacate,Tomate,Graviola,Pimentão
+usuario0168,Sobradinho,Goiaba,Tangerina,Tomate,Atemóia,Mandioca
+usuario0169,Vargem Bonita,Pepino,Banana,Goiaba,Pitaia,Couve
+usuario0170,Pipiripau,Cebola,Quiabo,Pepino,Alface,Mamão
+usuario0171,Taquara,Agrião,Jiló,Morango,Banana,Goiaba
+usuario0172,Gama,Maracujá,Abóbora,Manga,Cebola,Coco
+usuario0173,Ceilândia,Cajamanga,Pimentão,Morango,Uva,Pitaia
+usuario0174,Ceilândia,Brócolis,Uva,Mamão,Batata,Pepino
+usuario0175,Sobradinho,Goiaba,Pimentão,Maracujá,Abóbora,Cenoura
+usuario0176,Jardim,Pepino,Chuchu,Graviola,Tangerina,Uva
+usuario0177,Alexandre Gusmão,Alface,Lichia,Pitaia,Mamão,Cajamanga
+usuario0178,Pipiripau,Coco,Lichia,Limão,Gengibre,Graviola
+usuario0179,Vargem Bonita,Graviola,Alface,Manga,Pepino,Maracujá
+usuario0180,Alexandre Gusmão,Agrião,Lichia,Uva,Repolho,Manga
+usuario0181,Tabatinga,Abóbora,Maracujá,Mamão,Uva,Pitaia
+usuario0182,Taquara,Brócolis,Morango,Atemóia,Agrião,Mandioca
+usuario0183,Gama,Pitaia,Cenoura,Graviola,Chuchu,Lichia
+usuario0184,Pipiripau,Pitaia,Goiaba,Mandioca,Agrião,Batata
+usuario0185,Sobradinho,Abacate,Manga,Berinjela,Lichia,Limão
+usuario0186,Paranoá,Tangerina,Abóbora,Coco,Repolho,Pepino
+usuario0187,Brazlândia,Cenoura,Jiló,Pepino,Quiabo,Mamão
+usuario0188,Gama,Morango,Tomate,Manga,Uva,Coco
+usuario0189,Vargem Bonita,Tomate,Tangerina,Goiaba,Cenoura,Pimentão
+usuario0190,Tabatinga,Morango,Atemóia,Tomate,Coco,Mamão
+usuario0191,Tabatinga,Pitaia,Gengibre,Cenoura,Abacate,Pimentão
+usuario0192,São Sebastião,Morango,Repolho,Tangerina,Maracujá,Gengibre
+usuario0193,Planaltina,Alface,Gengibre,Maracujá,Mandioca,Coco
+usuario0194,Pipiripau,Couve,Uva,Goiaba,Brócolis,Agrião
+usuario0195,Paranoá,Batata,Tomate,Alface,Limão,Tangerina
+usuario0196,Alexandre Gusmão,Cajamanga,Goiaba,Quiabo,Chuchu,Abóbora
+usuario0197,PAD-DF,Batata,Alface,Berinjela,Manga,Banana
+usuario0198,Gama,Brócolis,Cebola,Chuchu,Pepino,Gengibre
+usuario0199,PAD-DF,Maracujá,Couve,Gengibre,Tomate,Mamão
+usuario0200,Paranoá,Chuchu,Manga,Abóbora,Cajamanga,Beterraba
+usuario0201,Paranoá,Manga,Banana,Jiló,Quiabo,Pimentão
+usuario0202,Sobradinho,Agrião,Quiabo,Coco,Alface,Abacate
+usuario0203,São Sebastião,Cajamanga,Mandioca,Limão,Atemóia,Banana
+usuario0204,Sobradinho,Atemóia,Abacate,Pimentão,Cenoura,Pepino
+usuario0205,Alexandre Gusmão,Agrião,Jiló,Atemóia,Chuchu,Brócolis
+usuario0206,Taquara,Atemóia,Goiaba,Quiabo,Lichia,Maracujá
+usuario0207,Taquara,Brócolis,Pepino,Gengibre,Pitaia,Abacate
+usuario0208,Alexandre Gusmão,Lichia,Repolho,Pitaia,Berinjela,Cebola
+usuario0209,Plano Piloto,Goiaba,Berinjela,Abacate,Couve,Limão
+usuario0210,Plano Piloto,Tangerina,Tomate,Uva,Morango,Manga
+usuario0211,Alexandre Gusmão,Chuchu,Agrião,Maracujá,Batata,Tomate
+usuario0212,São Sebastião,Repolho,Tomate,Coco,Lichia,Berinjela
+usuario0213,Jardim,Graviola,Coco,Pitaia,Gengibre,Chuchu
+usuario0214,Brazlândia,Quiabo,Cebola,Alface,Banana,Berinjela
+usuario0215,Tabatinga,Repolho,Jiló,Pitaia,Coco,Limão
+usuario0216,Plano Piloto,Maracujá,Berinjela,Pimentão,Tangerina,Quiabo
+usuario0217,Plano Piloto,Tomate,Graviola,Berinjela,Morango,Mandioca
+usuario0218,Pipiripau,Batata,Lichia,Beterraba,Quiabo,Maracujá
+usuario0219,Alexandre Gusmão,Chuchu,Abóbora,Pitaia,Pepino,Mamão
+usuario0220,PAD-DF,Cebola,Limão,Uva,Pepino,Quiabo
+usuario0221,Vargem Bonita,Tangerina,Cebola,Lichia,Graviola,Berinjela
+usuario0222,Brazlândia,Cajamanga,Beterraba,Chuchu,Brócolis,Graviola
+usuario0223,Planaltina,Repolho,Chuchu,Alface,Lichia,Pimentão
+usuario0224,Jardim,Pimentão,Gengibre,Beterraba,Batata,Quiabo
+usuario0225,Alexandre Gusmão,Chuchu,Banana,Morango,Cajamanga,Limão
+usuario0226,PAD-DF,Alface,Cenoura,Maracujá,Coco,Banana
+usuario0227,Taquara,Mamão,Couve,Berinjela,Tangerina,Uva
+usuario0228,Alexandre Gusmão,Uva,Brócolis,Banana,Pimentão,Agrião
+usuario0229,Plano Piloto,Brócolis,Pitaia,Repolho,Morango,Manga
+usuario0230,Alexandre Gusmão,Atemóia,Couve,Cenoura,Pitaia,Pimentão
+usuario0231,Gama,Agrião,Brócolis,Berinjela,Limão,Manga
+usuario0232,Alexandre Gusmão,Berinjela,Manga,Atemóia,Uva,Maracujá
+usuario0233,Sobradinho,Berinjela,Cajamanga,Maracujá,Cebola,Abóbora
+usuario0234,Sobradinho,Chuchu,Coco,Cebola,Graviola,Cenoura
+usuario0235,Brazlândia,Quiabo,Lichia,Pepino,Jiló,Goiaba
+usuario0236,Tabatinga,Tangerina,Cebola,Pimentão,Lichia,Coco
+usuario0237,Brazlândia,Tangerina,Alface,Goiaba,Graviola,Maracujá
+usuario0238,Sobradinho,Cebola,Cajamanga,Manga,Maracujá,Chuchu
+usuario0239,Vargem Bonita,Atemóia,Uva,Alface,Pepino,Abóbora
+usuario0240,Gama,Cajamanga,Couve,Beterraba,Tangerina,Gengibre
+usuario0241,Paranoá,Beterraba,Batata,Manga,Abacate,Goiaba
+usuario0242,Pipiripau,Coco,Brócolis,Abóbora,Cajamanga,Chuchu
+usuario0243,Vargem Bonita,Uva,Morango,Couve,Quiabo,Coco
+usuario0244,Planaltina,Quiabo,Jiló,Berinjela,Abacate,Brócolis
+usuario0245,Vargem Bonita,Maracujá,Mamão,Abóbora,Abacate,Quiabo
+usuario0246,Sobradinho,Abacate,Agrião,Pepino,Morango,Chuchu
+usuario0247,Paranoá,Repolho,Cajamanga,Coco,Alface,Brócolis
+usuario0248,Tabatinga,Cebola,Brócolis,Tangerina,Cajamanga,Maracujá
+usuario0249,PAD-DF,Couve,Limão,Jiló,Berinjela,Repolho
+usuario0250,Brazlândia,Tangerina,Abóbora,Graviola,Limão,Uva
+usuario0251,Vargem Bonita,Graviola,Batata,Mandioca,Mamão,Manga
+usuario0252,Planaltina,Goiaba,Pimentão,Beterraba,Chuchu,Tomate
+usuario0253,Alexandre Gusmão,Pitaia,Abóbora,Mamão,Jiló,Tangerina
+usuario0254,São Sebastião,Lichia,Pimentão,Abóbora,Repolho,Quiabo
+usuario0255,Gama,Berinjela,Brócolis,Manga,Repolho,Alface
+usuario0256,Alexandre Gusmão,Limão,Cebola,Mandioca,Berinjela,Tangerina
+usuario0257,Ceilândia,Jiló,Cajamanga,Limão,Brócolis,Abacate
+usuario0258,Plano Piloto,Batata,Lichia,Coco,Banana,Gengibre
+usuario0259,PAD-DF,Couve,Tangerina,Abacate,Agrião,Mandioca
+usuario0260,Planaltina,Pimentão,Abóbora,Quiabo,Graviola,Pitaia
+usuario0261,Tabatinga,Quiabo,Tomate,Mandioca,Cenoura,Berinjela
+usuario0262,Gama,Gengibre,Banana,Quiabo,Manga,Goiaba
+usuario0263,Paranoá,Abóbora,Uva,Agrião,Graviola,Banana
+usuario0264,Tabatinga,Pepino,Abacate,Agrião,Quiabo,Pitaia
+usuario0265,Vargem Bonita,Abacate,Lichia,Alface,Maracujá,Quiabo
+usuario0266,Paranoá,Tomate,Abóbora,Agrião,Cajamanga,Brócolis
+usuario0267,Brazlândia,Jiló,Mamão,Cenoura,Alface,Repolho
+usuario0268,Tabatinga,Manga,Berinjela,Morango,Tangerina,Jiló
+usuario0269,Sobradinho,Maracujá,Gengibre,Berinjela,Morango,Abóbora
+usuario0270,Plano Piloto,Repolho,Brócolis,Pepino,Agrião,Gengibre
+usuario0271,Brazlândia,Berinjela,Abóbora,Beterraba,Agrião,Pepino
+usuario0272,Tabatinga,Abóbora,Cebola,Pimentão,Jiló,Goiaba
+usuario0273,Pipiripau,Cenoura,Coco,Uva,Cajamanga,Morango
+usuario0274,Jardim,Quiabo,Atemóia,Pitaia,Gengibre,Alface
+usuario0275,Alexandre Gusmão,Cenoura,Banana,Agrião,Brócolis,Lichia
+usuario0276,Jardim,Quiabo,Pitaia,Beterraba,Morango,Brócolis
+usuario0277,Planaltina,Cebola,Coco,Limão,Repolho,Pimentão
+usuario0278,Plano Piloto,Chuchu,Gengibre,Cebola,Brócolis,Cenoura
+usuario0279,Planaltina,Repolho,Abacate,Beterraba,Alface,Morango
+usuario0280,Gama,Abóbora,Beterraba,Limão,Uva,Brócolis
+usuario0281,Taquara,Coco,Mamão,Morango,Lichia,Manga
+usuario0282,Plano Piloto,Berinjela,Mandioca,Alface,Pitaia,Lichia
+usuario0283,Tabatinga,Berinjela,Abóbora,Gengibre,Pepino,Repolho
+usuario0284,Gama,Uva,Mandioca,Cajamanga,Cenoura,Manga
+usuario0285,Gama,Cenoura,Maracujá,Repolho,Uva,Beterraba
+usuario0286,Sobradinho,Gengibre,Limão,Brócolis,Jiló,Mamão
+usuario0287,PAD-DF,Coco,Tomate,Alface,Abacate,Beterraba
+usuario0288,Planaltina,Pimentão,Pepino,Mandioca,Limão,Uva
+usuario0289,Vargem Bonita,Tomate,Manga,Cebola,Banana,Mamão
+usuario0290,Plano Piloto,Cajamanga,Graviola,Mandioca,Brócolis,Lichia
+usuario0291,Planaltina,Atemóia,Tomate,Brócolis,Berinjela,Repolho
+usuario0292,Jardim,Cajamanga,Abóbora,Abacate,Brócolis,Atemóia
+usuario0293,Tabatinga,Beterraba,Limão,Tomate,Mandioca,Gengibre
+usuario0294,PAD-DF,Jiló,Coco,Tangerina,Lichia,Brócolis
+usuario0295,Gama,Pepino,Agrião,Tomate,Quiabo,Berinjela
+usuario0296,PAD-DF,Abacate,Graviola,Mandioca,Gengibre,Morango
+usuario0297,Jardim,Agrião,Pitaia,Banana,Jiló,Lichia
+usuario0298,Vargem Bonita,Beterraba,Uva,Limão,Quiabo,Brócolis
+usuario0299,Alexandre Gusmão,Repolho,Quiabo,Batata,Uva,Chuchu
+usuario0300,Sobradinho,Atemóia,Mamão,Repolho,Lichia,Quiabo
+usuario0301,Pipiripau,Pitaia,Repolho,Atemóia,Banana,Batata
+usuario0302,Pipiripau,Cebola,Uva,Coco,Pimentão,Abóbora
+usuario0303,Gama,Cenoura,Abacate,Limão,Pitaia,Banana
+usuario0304,Paranoá,Brócolis,Cebola,Mandioca,Pepino,Cenoura
+usuario0305,Tabatinga,Atemóia,Gengibre,Quiabo,Pitaia,Uva
+usuario0306,Gama,Lichia,Tangerina,Mandioca,Jiló,Beterraba
+usuario0307,Sobradinho,Batata,Cebola,Gengibre,Cenoura,Couve
+usuario0308,Alexandre Gusmão,Abacate,Morango,Banana,Pepino,Cebola
+usuario0309,Brazlândia,Limão,Pepino,Manga,Cenoura,Graviola
+usuario0310,Tabatinga,Agrião,Pitaia,Goiaba,Pimentão,Couve
+usuario0311,Gama,Agrião,Pitaia,Maracujá,Atemóia,Repolho
+usuario0312,Paranoá,Pitaia,Tangerina,Maracujá,Gengibre,Beterraba
+usuario0313,Plano Piloto,Pimentão,Mandioca,Repolho,Atemóia,Graviola
+usuario0314,Alexandre Gusmão,Berinjela,Uva,Cajamanga,Gengibre,Repolho
+usuario0315,Planaltina,Goiaba,Atemóia,Chuchu,Tangerina,Couve
+usuario0316,Pipiripau,Cenoura,Berinjela,Gengibre,Tangerina,Quiabo
+usuario0317,PAD-DF,Pepino,Pitaia,Coco,Batata,Beterraba
+usuario0318,Jardim,Manga,Pepino,Banana,Jiló,Pimentão
+usuario0319,São Sebastião,Atemóia,Brócolis,Quiabo,Couve,Abóbora
+usuario0320,Brazlândia,Maracujá,Pepino,Quiabo,Gengibre,Tangerina
+usuario0321,Jardim,Jiló,Couve,Goiaba,Agrião,Pitaia
+usuario0322,Tabatinga,Banana,Gengibre,Uva,Berinjela,Abacate
+usuario0323,Gama,Tangerina,Couve,Manga,Mamão,Agrião
+usuario0324,Pipiripau,Abacate,Manga,Limão,Lichia,Chuchu
+usuario0325,Brazlândia,Graviola,Maracujá,Mamão,Morango,Pepino
+usuario0326,Planaltina,Batata,Gengibre,Abóbora,Chuchu,Cajamanga
+usuario0327,Ceilândia,Berinjela,Graviola,Jiló,Repolho,Beterraba
+usuario0328,Paranoá,Berinjela,Mamão,Pimentão,Couve,Tomate
+usuario0329,Taquara,Atemóia,Lichia,Pepino,Beterraba,Alface
+usuario0330,Paranoá,Maracujá,Pimentão,Alface,Cenoura,Abacate
+usuario0331,Brazlândia,Limão,Uva,Pimentão,Beterraba,Couve
+usuario0332,Vargem Bonita,Coco,Mandioca,Pitaia,Brócolis,Goiaba
+usuario0333,Vargem Bonita,Batata,Atemóia,Quiabo,Jiló,Pepino
+usuario0334,Paranoá,Coco,Uva,Limão,Goiaba,Cenoura
+usuario0335,Vargem Bonita,Atemóia,Coco,Couve,Beterraba,Tangerina
+usuario0336,Plano Piloto,Alface,Pitaia,Cajamanga,Chuchu,Berinjela
+usuario0337,Pipiripau,Cebola,Alface,Pepino,Batata,Beterraba
+usuario0338,Jardim,Manga,Lichia,Morango,Quiabo,Jiló
+usuario0339,Taquara,Batata,Brócolis,Pepino,Limão,Lichia
+usuario0340,Brazlândia,Maracujá,Lichia,Beterraba,Cenoura,Manga
+usuario0341,Paranoá,Goiaba,Tangerina,Cajamanga,Abóbora,Lichia
+usuario0342,Planaltina,Alface,Manga,Pepino,Goiaba,Coco
+usuario0343,Ceilândia,Maracujá,Quiabo,Uva,Cajamanga,Repolho
+usuario0344,Taquara,Pimentão,Atemóia,Brócolis,Uva,Coco
+usuario0345,Ceilândia,Berinjela,Manga,Gengibre,Coco,Banana
+usuario0346,Ceilândia,Abóbora,Alface,Cajamanga,Goiaba,Pitaia
+usuario0347,Tabatinga,Cenoura,Chuchu,Manga,Quiabo,Berinjela
+usuario0348,PAD-DF,Couve,Jiló,Pitaia,Brócolis,Batata
+usuario0349,Plano Piloto,Repolho,Uva,Tangerina,Atemóia,Alface
+usuario0350,Sobradinho,Cebola,Cenoura,Lichia,Pimentão,Uva
+usuario0351,PAD-DF,Batata,Manga,Agrião,Mamão,Alface
+usuario0352,Alexandre Gusmão,Abacate,Jiló,Cajamanga,Atemóia,Gengibre
+usuario0353,Alexandre Gusmão,Tomate,Abóbora,Jiló,Brócolis,Gengibre
+usuario0354,Pipiripau,Graviola,Maracujá,Pitaia,Uva,Quiabo
+usuario0355,Gama,Chuchu,Tomate,Repolho,Brócolis,Coco
+usuario0356,Vargem Bonita,Cebola,Quiabo,Batata,Chuchu,Cajamanga
+usuario0357,Paranoá,Morango,Manga,Couve,Quiabo,Pimentão
+usuario0358,Sobradinho,Quiabo,Limão,Cebola,Pepino,Brócolis
+usuario0359,Alexandre Gusmão,Tomate,Abóbora,Limão,Batata,Mandioca
+usuario0360,São Sebastião,Atemóia,Brócolis,Chuchu,Gengibre,Pimentão
+usuario0361,Taquara,Limão,Brócolis,Cajamanga,Lichia,Mamão
+usuario0362,Pipiripau,Pepino,Beterraba,Abacate,Cebola,Batata
+usuario0363,Gama,Uva,Cajamanga,Alface,Abóbora,Manga
+usuario0364,Planaltina,Goiaba,Pitaia,Lichia,Batata,Chuchu
+usuario0365,Brazlândia,Pepino,Graviola,Berinjela,Maracujá,Abacate
+usuario0366,Planaltina,Lichia,Morango,Graviola,Goiaba,Mamão
+usuario0367,Pipiripau,Agrião,Pitaia,Maracujá,Brócolis,Abóbora
+usuario0368,Ceilândia,Tomate,Batata,Berinjela,Alface,Morango
+usuario0369,Jardim,Batata,Lichia,Abacate,Beterraba,Cajamanga
+usuario0370,Gama,Gengibre,Mandioca,Cenoura,Pepino,Tomate
+usuario0371,Sobradinho,Manga,Morango,Chuchu,Alface,Mamão
+usuario0372,Plano Piloto,Morango,Banana,Atemóia,Chuchu,Agrião
+usuario0373,Brazlândia,Graviola,Batata,Jiló,Banana,Goiaba
+usuario0374,Ceilândia,Tangerina,Berinjela,Couve,Limão,Maracujá
+usuario0375,Taquara,Manga,Mandioca,Brócolis,Limão,Pimentão
+usuario0376,Sobradinho,Cebola,Chuchu,Banana,Limão,Tangerina
+usuario0377,Alexandre Gusmão,Manga,Pepino,Cenoura,Berinjela,Quiabo
+usuario0378,São Sebastião,Pitaia,Agrião,Gengibre,Couve,Banana
+usuario0379,Sobradinho,Cebola,Quiabo,Beterraba,Banana,Manga
+usuario0380,Gama,Banana,Agrião,Brócolis,Limão,Graviola
+usuario0381,PAD-DF,Tangerina,Berinjela,Cajamanga,Coco,Banana
+usuario0382,Taquara,Quiabo,Atemóia,Lichia,Berinjela,Manga
+usuario0383,Vargem Bonita,Jiló,Morango,Couve,Goiaba,Graviola
+usuario0384,Plano Piloto,Alface,Tangerina,Mandioca,Couve,Pitaia
+usuario0385,Tabatinga,Lichia,Mamão,Pimentão,Jiló,Brócolis
+usuario0386,Taquara,Gengibre,Uva,Morango,Pitaia,Atemóia
+usuario0387,Vargem Bonita,Manga,Graviola,Lichia,Morango,Agrião
+usuario0388,Vargem Bonita,Graviola,Atemóia,Gengibre,Alface,Abacate
+usuario0389,PAD-DF,Alface,Couve,Tangerina,Abacate,Graviola
+usuario0390,Taquara,Limão,Cajamanga,Morango,Manga,Goiaba
+usuario0391,Paranoá,Pimentão,Abóbora,Batata,Cajamanga,Mandioca
+usuario0392,Plano Piloto,Coco,Berinjela,Beterraba,Morango,Quiabo
+usuario0393,PAD-DF,Beterraba,Abacate,Chuchu,Pitaia,Pimentão
+usuario0394,São Sebastião,Couve,Goiaba,Berinjela,Chuchu,Graviola
+usuario0395,Gama,Manga,Abacate,Tangerina,Pitaia,Cenoura
+usuario0396,Taquara,Pepino,Repolho,Pitaia,Mandioca,Tangerina
+usuario0397,Plano Piloto,Alface,Cenoura,Berinjela,Abóbora,Pimentão
+usuario0398,São Sebastião,Graviola,Repolho,Manga,Pepino,Mamão
+usuario0399,São Sebastião,Cenoura,Tomate,Repolho,Graviola,Manga
+usuario0400,Pipiripau,Repolho,Chuchu,Abóbora,Jiló,Quiabo
+usuario0401,Taquara,Pimentão,Graviola,Uva,Quiabo,Mandioca
+usuario0402,Pipiripau,Abóbora,Beterraba,Repolho,Pitaia,Tomate
+usuario0403,Pipiripau,Coco,Atemóia,Cebola,Mandioca,Tangerina
+usuario0404,Vargem Bonita,Banana,Couve,Maracujá,Quiabo,Brócolis
+usuario0405,Brazlândia,Goiaba,Maracujá,Berinjela,Manga,Cenoura
+usuario0406,Plano Piloto,Jiló,Abóbora,Cenoura,Repolho,Tangerina
+usuario0407,Vargem Bonita,Coco,Atemóia,Limão,Manga,Cenoura
+usuario0408,São Sebastião,Quiabo,Gengibre,Tomate,Uva,Abóbora
+usuario0409,Sobradinho,Manga,Alface,Chuchu,Tomate,Graviola
+usuario0410,Paranoá,Cajamanga,Jiló,Tangerina,Graviola,Coco
+usuario0411,Gama,Alface,Mamão,Tomate,Tangerina,Abóbora
+usuario0412,PAD-DF,Abacate,Mandioca,Cajamanga,Pimentão,Brócolis
+usuario0413,Planaltina,Agrião,Brócolis,Morango,Pitaia,Alface
+usuario0414,São Sebastião,Lichia,Repolho,Alface,Limão,Couve
+usuario0415,Planaltina,Cajamanga,Coco,Berinjela,Mamão,Quiabo
+usuario0416,Vargem Bonita,Agrião,Cenoura,Maracujá,Pimentão,Berinjela
+usuario0417,Alexandre Gusmão,Cajamanga,Chuchu,Limão,Alface,Lichia
+usuario0418,Vargem Bonita,Alface,Quiabo,Cebola,Mandioca,Mamão
+usuario0419,PAD-DF,Lichia,Mamão,Morango,Pitaia,Repolho
+usuario0420,Vargem Bonita,Banana,Cenoura,Mamão,Abóbora,Beterraba
+usuario0421,Gama,Couve,Tomate,Goiaba,Gengibre,Batata
+usuario0422,Sobradinho,Tomate,Jiló,Brócolis,Tangerina,Limão
+usuario0423,Pipiripau,Coco,Jiló,Mamão,Batata,Berinjela
+usuario0424,Tabatinga,Alface,Repolho,Beterraba,Brócolis,Pimentão
+usuario0425,Planaltina,Quiabo,Cebola,Alface,Abóbora,Lichia
+usuario0426,Plano Piloto,Graviola,Alface,Pimentão,Uva,Cajamanga
+usuario0427,Jardim,Mamão,Maracujá,Tomate,Pitaia,Morango
+usuario0428,PAD-DF,Goiaba,Tangerina,Repolho,Maracujá,Chuchu
+usuario0429,Brazlândia,Limão,Cajamanga,Lichia,Agrião,Quiabo
+usuario0430,Taquara,Berinjela,Brócolis,Cenoura,Batata,Graviola
+usuario0431,Paranoá,Brócolis,Agrião,Banana,Abacate,Mamão
+usuario0432,Gama,Gengibre,Mamão,Mandioca,Jiló,Pitaia
+usuario0433,Tabatinga,Lichia,Mandioca,Cebola,Chuchu,Tomate
+usuario0434,Plano Piloto,Cenoura,Abacate,Tomate,Lichia,Pitaia
+usuario0435,Vargem Bonita,Maracujá,Alface,Quiabo,Cajamanga,Berinjela
+usuario0436,Tabatinga,Morango,Coco,Brócolis,Manga,Mandioca
+usuario0437,PAD-DF,Gengibre,Tangerina,Beterraba,Couve,Mamão
+usuario0438,Brazlândia,Limão,Agrião,Couve,Morango,Mamão
+usuario0439,Planaltina,Pitaia,Brócolis,Uva,Cenoura,Chuchu
+usuario0440,Pipiripau,Abóbora,Mamão,Cebola,Alface,Abacate
+usuario0441,Plano Piloto,Pimentão,Quiabo,Limão,Cebola,Lichia
+usuario0442,Tabatinga,Maracujá,Uva,Manga,Coco,Abacate
+usuario0443,PAD-DF,Chuchu,Abóbora,Mandioca,Pitaia,Maracujá
+usuario0444,PAD-DF,Cenoura,Coco,Mamão,Agrião,Alface
+usuario0445,Sobradinho,Cebola,Morango,Gengibre,Lichia,Abacate
+usuario0446,São Sebastião,Couve,Mandioca,Manga,Tangerina,Abóbora
+usuario0447,Paranoá,Cajamanga,Uva,Quiabo,Tomate,Beterraba
+usuario0448,Plano Piloto,Mandioca,Cebola,Quiabo,Batata,Tangerina
+usuario0449,Paranoá,Mandioca,Pitaia,Abóbora,Chuchu,Goiaba
+usuario0450,Pipiripau,Atemóia,Pimentão,Banana,Tomate,Cajamanga
+usuario0451,Ceilândia,Cenoura,Abóbora,Pitaia,Maracujá,Manga
+usuario0452,Jardim,Limão,Beterraba,Abacate,Pitaia,Batata
+usuario0453,Tabatinga,Brócolis,Tomate,Alface,Beterraba,Coco
+usuario0454,Sobradinho,Morango,Pepino,Alface,Batata,Mamão
+usuario0455,Gama,Brócolis,Cenoura,Pimentão,Morango,Mandioca
+usuario0456,Planaltina,Pimentão,Pepino,Maracujá,Abóbora,Pitaia
+usuario0457,Plano Piloto,Gengibre,Maracujá,Morango,Brócolis,Tangerina
+usuario0458,Vargem Bonita,Jiló,Cebola,Graviola,Brócolis,Chuchu
+usuario0459,Tabatinga,Alface,Graviola,Repolho,Gengibre,Banana
+usuario0460,Alexandre Gusmão,Gengibre,Goiaba,Quiabo,Pepino,Tangerina
+usuario0461,Plano Piloto,Lichia,Jiló,Pitaia,Agrião,Repolho
+usuario0462,Tabatinga,Maracujá,Abacate,Coco,Tomate,Limão
+usuario0463,Sobradinho,Lichia,Banana,Cajamanga,Agrião,Abacate
+usuario0464,Sobradinho,Batata,Abóbora,Cenoura,Atemóia,Cajamanga
+usuario0465,Jardim,Manga,Brócolis,Goiaba,Lichia,Tomate
+usuario0466,Paranoá,Maracujá,Jiló,Agrião,Cajamanga,Uva
+usuario0467,Vargem Bonita,Graviola,Goiaba,Jiló,Uva,Gengibre
+usuario0468,Pipiripau,Pepino,Mamão,Agrião,Tomate,Jiló
+usuario0469,Paranoá,Banana,Abacate,Uva,Morango,Lichia
+usuario0470,Gama,Limão,Jiló,Tomate,Cajamanga,Chuchu
+usuario0471,Plano Piloto,Abóbora,Repolho,Cajamanga,Maracujá,Goiaba
+usuario0472,Alexandre Gusmão,Beterraba,Agrião,Berinjela,Limão,Abacate
+usuario0473,Sobradinho,Quiabo,Pitaia,Gengibre,Tomate,Abóbora
+usuario0474,Gama,Manga,Atemóia,Uva,Graviola,Coco
+usuario0475,Vargem Bonita,Lichia,Agrião,Alface,Manga,Morango
+usuario0476,Tabatinga,Atemóia,Quiabo,Beterraba,Uva,Couve
+usuario0477,Alexandre Gusmão,Abóbora,Alface,Chuchu,Limão,Repolho
+usuario0478,Tabatinga,Limão,Beterraba,Banana,Uva,Berinjela
+usuario0479,PAD-DF,Pimentão,Brócolis,Uva,Graviola,Chuchu
+usuario0480,Alexandre Gusmão,Manga,Pitaia,Cenoura,Gengibre,Atemóia
+usuario0481,São Sebastião,Graviola,Tomate,Maracujá,Morango,Abacate
+usuario0482,Alexandre Gusmão,Pimentão,Goiaba,Cebola,Chuchu,Pepino
+usuario0483,Vargem Bonita,Banana,Mamão,Batata,Mandioca,Jiló
+usuario0484,PAD-DF,Agrião,Morango,Cenoura,Banana,Repolho
+usuario0485,Sobradinho,Pepino,Tangerina,Uva,Goiaba,Abóbora
+usuario0486,Jardim,Cajamanga,Uva,Tangerina,Coco,Lichia
+usuario0487,Ceilândia,Limão,Pimentão,Atemóia,Graviola,Pitaia
+usuario0488,Planaltina,Cajamanga,Batata,Repolho,Graviola,Goiaba
+usuario0489,Jardim,Pepino,Brócolis,Limão,Uva,Cenoura
+usuario0490,Sobradinho,Morango,Batata,Uva,Mandioca,Graviola
+usuario0491,Sobradinho,Cajamanga,Pimentão,Repolho,Mandioca,Gengibre
+usuario0492,Plano Piloto,Brócolis,Quiabo,Berinjela,Atemóia,Pepino
+usuario0493,Taquara,Maracujá,Jiló,Uva,Couve,Brócolis
+usuario0494,Taquara,Manga,Lichia,Limão,Jiló,Gengibre
+usuario0495,Gama,Mandioca,Jiló,Uva,Atemóia,Maracujá
+usuario0496,Jardim,Pepino,Maracujá,Limão,Cajamanga,Goiaba
+usuario0497,Jardim,Mamão,Beterraba,Manga,Batata,Tangerina
+usuario0498,Planaltina,Cenoura,Berinjela,Gengibre,Uva,Abóbora
+usuario0499,São Sebastião,Agrião,Beterraba,Jiló,Manga,Tomate
+usuario0500,Ceilândia,Mandioca,Brócolis,Goiaba,Mamão,Uva
+usuario0501,Alexandre Gusmão,Morango,Mandioca,Manga,Abacate,Repolho
+usuario0502,Ceilândia,Chuchu,Abacate,Mamão,Tangerina,Atemóia
+usuario0503,Taquara,Atemóia,Gengibre,Tangerina,Pimentão,Maracujá
+usuario0504,Planaltina,Chuchu,Coco,Agrião,Batata,Tangerina
+usuario0505,Sobradinho,Abacate,Quiabo,Uva,Agrião,Coco
+usuario0506,Planaltina,Pitaia,Atemóia,Limão,Mandioca,Abóbora
+usuario0507,Planaltina,Gengibre,Couve,Jiló,Batata,Cenoura
+usuario0508,Sobradinho,Agrião,Pitaia,Coco,Banana,Beterraba
+usuario0509,Tabatinga,Batata,Banana,Tangerina,Goiaba,Graviola
+usuario0510,Plano Piloto,Gengibre,Tangerina,Chuchu,Beterraba,Cajamanga
+usuario0511,Brazlândia,Batata,Uva,Cenoura,Graviola,Beterraba
+usuario0512,Ceilândia,Tangerina,Beterraba,Chuchu,Abóbora,Graviola
+usuario0513,Planaltina,Jiló,Tomate,Cenoura,Uva,Maracujá
+usuario0514,Planaltina,Pepino,Brócolis,Tangerina,Banana,Pimentão
+usuario0515,Pipiripau,Goiaba,Beterraba,Coco,Abóbora,Mamão
+usuario0516,Gama,Cebola,Pitaia,Alface,Beterraba,Mandioca
+usuario0517,Gama,Agrião,Couve,Quiabo,Uva,Repolho
+usuario0518,PAD-DF,Coco,Lichia,Brócolis,Agrião,Beterraba
+usuario0519,Taquara,Jiló,Pitaia,Couve,Tangerina,Repolho
+usuario0520,São Sebastião,Goiaba,Maracujá,Cebola,Limão,Pimentão
+usuario0521,São Sebastião,Atemóia,Beterraba,Limão,Cenoura,Abacate
+usuario0522,Alexandre Gusmão,Brócolis,Abóbora,Mamão,Pepino,Chuchu
+usuario0523,São Sebastião,Alface,Batata,Pimentão,Cenoura,Banana
+usuario0524,São Sebastião,Manga,Quiabo,Pitaia,Couve,Atemóia
+usuario0525,PAD-DF,Chuchu,Cebola,Brócolis,Couve,Coco
+usuario0526,Plano Piloto,Banana,Pimentão,Quiabo,Abacate,Mandioca
+usuario0527,Taquara,Goiaba,Alface,Maracujá,Pimentão,Morango
+usuario0528,Jardim,Banana,Mamão,Alface,Repolho,Brócolis
+usuario0529,Pipiripau,Jiló,Couve,Goiaba,Chuchu,Berinjela
+usuario0530,Brazlândia,Jiló,Mamão,Alface,Tangerina,Pepino
+usuario0531,PAD-DF,Tomate,Repolho,Morango,Uva,Couve
+usuario0532,PAD-DF,Agrião,Lichia,Pepino,Abóbora,Mandioca
+usuario0533,Jardim,Agrião,Cenoura,Atemóia,Tangerina,Gengibre
+usuario0534,São Sebastião,Berinjela,Banana,Pepino,Chuchu,Goiaba
+usuario0535,Jardim,Abacate,Mandioca,Cajamanga,Maracujá,Manga
+usuario0536,Tabatinga,Pepino,Manga,Maracujá,Couve,Pitaia
+usuario0537,Plano Piloto,Abacate,Cebola,Couve,Chuchu,Atemóia
+usuario0538,Planaltina,Pimentão,Pepino,Abóbora,Jiló,Maracujá
+usuario0539,Gama,Chuchu,Maracujá,Mamão,Batata,Morango
+usuario0540,Taquara,Pitaia,Coco,Mandioca,Uva,Abóbora
+usuario0541,Tabatinga,Tangerina,Limão,Pimentão,Cenoura,Lichia
+usuario0542,Gama,Banana,Abacate,Morango,Maracujá,Lichia
+usuario0543,Tabatinga,Agrião,Uva,Atemóia,Mamão,Morango
+usuario0544,PAD-DF,Mandioca,Berinjela,Chuchu,Manga,Gengibre
+usuario0545,Planaltina,Pepino,Couve,Chuchu,Cenoura,Morango
+usuario0546,Brazlândia,Uva,Cebola,Goiaba,Tangerina,Tomate
+usuario0547,Gama,Alface,Cenoura,Abóbora,Coco,Tomate
+usuario0548,Paranoá,Limão,Cebola,Mandioca,Mamão,Cajamanga
+usuario0549,Sobradinho,Abóbora,Berinjela,Graviola,Cenoura,Couve
+usuario0550,São Sebastião,Limão,Lichia,Tangerina,Jiló,Coco
+usuario0551,Planaltina,Cebola,Cajamanga,Beterraba,Jiló,Tomate
+usuario0552,Vargem Bonita,Tangerina,Jiló,Abóbora,Mamão,Pimentão
+usuario0553,Ceilândia,Jiló,Mandioca,Limão,Couve,Berinjela
+usuario0554,Sobradinho,Coco,Pimentão,Tangerina,Manga,Uva
+usuario0555,Sobradinho,Repolho,Coco,Berinjela,Atemóia,Lichia
+usuario0556,Pipiripau,Abóbora,Goiaba,Berinjela,Pimentão,Couve
+usuario0557,PAD-DF,Couve,Tangerina,Quiabo,Brócolis,Uva
+usuario0558,Plano Piloto,Agrião,Quiabo,Repolho,Lichia,Tomate
+usuario0559,Brazlândia,Mandioca,Cajamanga,Limão,Goiaba,Pimentão
+usuario0560,Alexandre Gusmão,Pepino,Couve,Maracujá,Cebola,Graviola
+usuario0561,Taquara,Manga,Goiaba,Alface,Mamão,Couve
+usuario0562,Brazlândia,Atemóia,Beterraba,Quiabo,Berinjela,Morango
+usuario0563,São Sebastião,Abacate,Mandioca,Pitaia,Abóbora,Lichia
+usuario0564,PAD-DF,Couve,Maracujá,Agrião,Gengibre,Alface
+usuario0565,Pipiripau,Mamão,Cajamanga,Beterraba,Morango,Pimentão
+usuario0566,Ceilândia,Atemóia,Cajamanga,Tomate,Pepino,Pimentão
+usuario0567,Jardim,Tomate,Banana,Pitaia,Pepino,Repolho
+usuario0568,Pipiripau,Jiló,Couve,Berinjela,Goiaba,Mamão
+usuario0569,Sobradinho,Beterraba,Maracujá,Jiló,Atemóia,Morango
+usuario0570,Taquara,Couve,Atemóia,Coco,Quiabo,Cenoura
+usuario0571,Jardim,Repolho,Cenoura,Goiaba,Pimentão,Limão
+usuario0572,Vargem Bonita,Pitaia,Manga,Banana,Alface,Pepino
+usuario0573,Vargem Bonita,Cajamanga,Goiaba,Coco,Abóbora,Pimentão
+usuario0574,Pipiripau,Coco,Mamão,Cebola,Morango,Gengibre
+usuario0575,São Sebastião,Repolho,Mamão,Berinjela,Cebola,Goiaba
+usuario0576,PAD-DF,Jiló,Pimentão,Limão,Tomate,Chuchu
+usuario0577,Pipiripau,Mandioca,Alface,Morango,Beterraba,Cenoura
+usuario0578,Planaltina,Quiabo,Berinjela,Atemóia,Repolho,Agrião
+usuario0579,Jardim,Cebola,Pepino,Uva,Batata,Goiaba
+usuario0580,Sobradinho,Uva,Jiló,Pimentão,Gengibre,Morango
+usuario0581,Gama,Pepino,Cenoura,Repolho,Couve,Goiaba
+usuario0582,PAD-DF,Brócolis,Maracujá,Cajamanga,Pitaia,Uva
+usuario0583,Taquara,Uva,Chuchu,Mamão,Tomate,Gengibre
+usuario0584,Ceilândia,Atemóia,Repolho,Alface,Limão,Jiló
+usuario0585,Gama,Beterraba,Mamão,Repolho,Limão,Jiló
+usuario0586,Gama,Alface,Pepino,Atemóia,Repolho,Uva
+usuario0587,Jardim,Maracujá,Mandioca,Graviola,Cajamanga,Cenoura
+usuario0588,Jardim,Beterraba,Quiabo,Agrião,Coco,Pimentão
+usuario0589,Taquara,Abacate,Uva,Pimentão,Berinjela,Limão
+usuario0590,Ceilândia,Limão,Cenoura,Tomate,Brócolis,Couve
+usuario0591,Jardim,Cenoura,Graviola,Gengibre,Couve,Cebola
+usuario0592,Plano Piloto,Maracujá,Cebola,Alface,Abacate,Couve
+usuario0593,Paranoá,Alface,Mandioca,Jiló,Pimentão,Abóbora
+usuario0594,Vargem Bonita,Beterraba,Berinjela,Tomate,Graviola,Pitaia
+usuario0595,Pipiripau,Mandioca,Lichia,Gengibre,Limão,Brócolis
+usuario0596,Tabatinga,Atemóia,Cebola,Goiaba,Beterraba,Cenoura
+usuario0597,Vargem Bonita,Quiabo,Limão,Goiaba,Chuchu,Cebola
+usuario0598,Tabatinga,Mandioca,Tangerina,Pimentão,Banana,Abóbora
+usuario0599,Gama,Banana,Lichia,Agrião,Pitaia,Couve
+usuario0600,Sobradinho,Lichia,Cajamanga,Agrião,Limão,Atemóia
+usuario0601,Pipiripau,Coco,Manga,Graviola,Tomate,Banana
+usuario0602,Pipiripau,Beterraba,Mandioca,Batata,Coco,Atemóia
+usuario0603,Plano Piloto,Couve,Uva,Abóbora,Goiaba,Cajamanga
+usuario0604,Jardim,Repolho,Graviola,Coco,Atemóia,Alface
+usuario0605,Gama,Coco,Lichia,Quiabo,Alface,Tomate
+usuario0606,Plano Piloto,Repolho,Cajamanga,Coco,Alface,Mandioca
+usuario0607,Brazlândia,Banana,Limão,Berinjela,Cebola,Graviola
+usuario0608,Paranoá,Manga,Agrião,Tangerina,Lichia,Pepino
+usuario0609,São Sebastião,Pepino,Tangerina,Beterraba,Jiló,Cajamanga
+usuario0610,Vargem Bonita,Batata,Atemóia,Quiabo,Pitaia,Lichia
+usuario0611,Jardim,Graviola,Cenoura,Chuchu,Quiabo,Mandioca
+usuario0612,Vargem Bonita,Coco,Abacate,Batata,Abóbora,Manga
+usuario0613,Tabatinga,Manga,Morango,Pepino,Goiaba,Coco
+usuario0614,Sobradinho,Tomate,Manga,Lichia,Atemóia,Cenoura
+usuario0615,Plano Piloto,Tangerina,Goiaba,Abóbora,Limão,Quiabo
+usuario0616,Taquara,Berinjela,Tangerina,Pimentão,Morango,Cebola
+usuario0617,Plano Piloto,Abacate,Pitaia,Graviola,Brócolis,Tomate
+usuario0618,Taquara,Alface,Brócolis,Chuchu,Goiaba,Pimentão
+usuario0619,Paranoá,Alface,Mamão,Mandioca,Atemóia,Gengibre
+usuario0620,Paranoá,Uva,Graviola,Morango,Mandioca,Chuchu
+usuario0621,Sobradinho,Brócolis,Pitaia,Abacate,Coco,Beterraba
+usuario0622,Gama,Pitaia,Uva,Tomate,Goiaba,Banana
+usuario0623,Planaltina,Repolho,Banana,Alface,Limão,Mandioca
+usuario0624,Gama,Quiabo,Tangerina,Couve,Cajamanga,Agrião
+usuario0625,Vargem Bonita,Banana,Goiaba,Manga,Coco,Abóbora
+usuario0626,Taquara,Mamão,Limão,Mandioca,Agrião,Abacate
+usuario0627,Ceilândia,Pimentão,Pitaia,Coco,Repolho,Batata
+usuario0628,Plano Piloto,Lichia,Pimentão,Uva,Gengibre,Mandioca
+usuario0629,Taquara,Coco,Mamão,Maracujá,Gengibre,Beterraba
+usuario0630,São Sebastião,Repolho,Abóbora,Mandioca,Lichia,Cenoura
+usuario0631,Pipiripau,Lichia,Cebola,Goiaba,Cenoura,Tangerina
+usuario0632,PAD-DF,Chuchu,Pitaia,Mandioca,Mamão,Graviola
+usuario0633,Vargem Bonita,Limão,Abacate,Jiló,Uva,Pimentão
+usuario0634,Brazlândia,Tangerina,Alface,Jiló,Goiaba,Beterraba
+usuario0635,Ceilândia,Mandioca,Couve,Repolho,Morango,Abacate
+usuario0636,Tabatinga,Pitaia,Goiaba,Abóbora,Coco,Manga
+usuario0637,Vargem Bonita,Lichia,Berinjela,Graviola,Limão,Coco
+usuario0638,Ceilândia,Lichia,Brócolis,Coco,Batata,Jiló
+usuario0639,PAD-DF,Jiló,Coco,Abóbora,Beterraba,Atemóia
+usuario0640,Ceilândia,Quiabo,Beterraba,Pitaia,Alface,Pepino
+usuario0641,Vargem Bonita,Tomate,Pitaia,Quiabo,Cenoura,Mandioca
+usuario0642,Jardim,Uva,Cajamanga,Pitaia,Cebola,Agrião
+usuario0643,Vargem Bonita,Jiló,Pimentão,Morango,Uva,Beterraba
+usuario0644,Sobradinho,Pitaia,Alface,Jiló,Uva,Repolho
+usuario0645,PAD-DF,Jiló,Quiabo,Cajamanga,Abacate,Beterraba
+usuario0646,Taquara,Cenoura,Mandioca,Limão,Tangerina,Banana
+usuario0647,Paranoá,Agrião,Mandioca,Beterraba,Berinjela,Tangerina
+usuario0648,Plano Piloto,Abóbora,Berinjela,Chuchu,Batata,Pepino
+usuario0649,Sobradinho,Abóbora,Tangerina,Berinjela,Brócolis,Banana
+usuario0650,Vargem Bonita,Jiló,Pepino,Mandioca,Manga,Limão
+usuario0651,Vargem Bonita,Cenoura,Berinjela,Mamão,Graviola,Maracujá
+usuario0652,São Sebastião,Gengibre,Manga,Mandioca,Alface,Lichia
+usuario0653,Brazlândia,Tangerina,Agrião,Pimentão,Batata,Mandioca
+usuario0654,Jardim,Gengibre,Berinjela,Tangerina,Lichia,Beterraba
+usuario0655,Alexandre Gusmão,Chuchu,Maracujá,Mandioca,Cenoura,Gengibre
+usuario0656,Paranoá,Brócolis,Morango,Pitaia,Tomate,Jiló
+usuario0657,Alexandre Gusmão,Couve,Maracujá,Mamão,Alface,Gengibre
+usuario0658,Tabatinga,Alface,Chuchu,Morango,Pitaia,Tangerina
+usuario0659,Taquara,Jiló,Pepino,Pitaia,Tangerina,Morango
+usuario0660,Ceilândia,Jiló,Graviola,Tangerina,Quiabo,Gengibre
+usuario0661,Gama,Batata,Graviola,Pepino,Goiaba,Mamão
+usuario0662,Pipiripau,Manga,Agrião,Brócolis,Pitaia,Banana
+usuario0663,Pipiripau,Tangerina,Atemóia,Uva,Brócolis,Maracujá
+usuario0664,Ceilândia,Mamão,Manga,Morango,Tangerina,Maracujá
+usuario0665,São Sebastião,Chuchu,Jiló,Abacate,Pitaia,Alface
+usuario0666,Tabatinga,Cenoura,Manga,Goiaba,Cebola,Jiló
+usuario0667,Ceilândia,Uva,Jiló,Abacate,Atemóia,Pimentão
+usuario0668,Jardim,Manga,Limão,Atemóia,Batata,Banana
+usuario0669,PAD-DF,Goiaba,Mamão,Uva,Jiló,Brócolis
+usuario0670,Taquara,Abóbora,Batata,Tomate,Agrião,Coco
+usuario0671,Tabatinga,Mandioca,Gengibre,Banana,Tomate,Batata
+usuario0672,Brazlândia,Jiló,Pepino,Repolho,Abacate,Graviola
+usuario0673,Planaltina,Lichia,Brócolis,Graviola,Chuchu,Quiabo
+usuario0674,Alexandre Gusmão,Mamão,Abóbora,Cebola,Limão,Berinjela
+usuario0675,PAD-DF,Repolho,Cenoura,Coco,Agrião,Goiaba
+usuario0676,Tabatinga,Atemóia,Berinjela,Cebola,Lichia,Chuchu
+usuario0677,Jardim,Berinjela,Cebola,Abóbora,Coco,Cenoura
+usuario0678,Brazlândia,Repolho,Mamão,Atemóia,Goiaba,Manga
+usuario0679,Plano Piloto,Coco,Quiabo,Gengibre,Repolho,Batata
+usuario0680,Sobradinho,Quiabo,Beterraba,Batata,Uva,Abóbora
+usuario0681,Paranoá,Tomate,Agrião,Abóbora,Batata,Goiaba
+usuario0682,Gama,Cebola,Alface,Manga,Abacate,Pimentão
+usuario0683,Vargem Bonita,Lichia,Limão,Banana,Pitaia,Cebola
+usuario0684,Jardim,Pepino,Repolho,Atemóia,Abacate,Lichia
+usuario0685,Ceilândia,Graviola,Berinjela,Coco,Lichia,Agrião
+usuario0686,Pipiripau,Alface,Couve,Pepino,Batata,Pitaia
+usuario0687,Vargem Bonita,Cebola,Uva,Atemóia,Limão,Berinjela
+usuario0688,São Sebastião,Alface,Couve,Mamão,Goiaba,Uva
+usuario0689,Sobradinho,Manga,Graviola,Abóbora,Brócolis,Pimentão
+usuario0690,Pipiripau,Pimentão,Pepino,Quiabo,Coco,Limão
+usuario0691,Tabatinga,Beterraba,Coco,Mamão,Atemóia,Berinjela
+usuario0692,São Sebastião,Alface,Cajamanga,Uva,Quiabo,Cenoura
+usuario0693,Pipiripau,Goiaba,Manga,Tomate,Tangerina,Abóbora
+usuario0694,Paranoá,Pimentão,Tomate,Cajamanga,Beterraba,Abóbora
+usuario0695,Tabatinga,Beterraba,Goiaba,Gengibre,Cenoura,Tomate
+usuario0696,Planaltina,Alface,Beterraba,Atemóia,Batata,Tomate
+usuario0697,Tabatinga,Cenoura,Brócolis,Repolho,Atemóia,Goiaba
+usuario0698,Vargem Bonita,Cebola,Mamão,Gengibre,Uva,Banana
+usuario0699,Taquara,Couve,Graviola,Abóbora,Morango,Berinjela
+usuario0700,Brazlândia,Quiabo,Coco,Mamão,Couve,Pitaia
+usuario0701,Sobradinho,Uva,Chuchu,Berinjela,Pitaia,Cebola
+usuario0702,Gama,Cebola,Agrião,Banana,Uva,Abóbora
+usuario0703,Pipiripau,Manga,Gengibre,Tomate,Abóbora,Mandioca
+usuario0704,Sobradinho,Cebola,Cenoura,Limão,Morango,Tangerina
+usuario0705,Alexandre Gusmão,Beterraba,Repolho,Abacate,Manga,Brócolis
+usuario0706,Pipiripau,Couve,Beterraba,Tangerina,Mandioca,Pitaia
+usuario0707,Ceilândia,Alface,Maracujá,Repolho,Morango,Pitaia
+usuario0708,Vargem Bonita,Alface,Mandioca,Banana,Tomate,Cenoura
+usuario0709,Tabatinga,Cebola,Alface,Atemóia,Cajamanga,Gengibre
+usuario0710,Brazlândia,Brócolis,Banana,Repolho,Manga,Tangerina
+usuario0711,Vargem Bonita,Agrião,Pimentão,Cajamanga,Batata,Beterraba
+usuario0712,Sobradinho,Tangerina,Mamão,Pitaia,Cenoura,Abóbora
+usuario0713,Paranoá,Banana,Pepino,Maracujá,Manga,Graviola
+usuario0714,Taquara,Atemóia,Uva,Batata,Pitaia,Tangerina
+usuario0715,Plano Piloto,Berinjela,Coco,Alface,Agrião,Goiaba
+usuario0716,Paranoá,Uva,Beterraba,Atemóia,Cenoura,Banana
+usuario0717,Alexandre Gusmão,Alface,Beterraba,Tomate,Tangerina,Pimentão
+usuario0718,Brazlândia,Maracujá,Uva,Alface,Quiabo,Goiaba
+usuario0719,Gama,Tangerina,Quiabo,Tomate,Gengibre,Batata
+usuario0720,Taquara,Uva,Limão,Mamão,Chuchu,Quiabo
+usuario0721,Pipiripau,Mandioca,Coco,Pepino,Pimentão,Mamão
+usuario0722,Jardim,Berinjela,Graviola,Batata,Lichia,Alface
+usuario0723,Pipiripau,Mandioca,Jiló,Chuchu,Agrião,Tomate
+usuario0724,Brazlândia,Abóbora,Quiabo,Mandioca,Morango,Chuchu
+usuario0725,Taquara,Berinjela,Tomate,Coco,Maracujá,Pitaia
+usuario0726,Planaltina,Manga,Uva,Banana,Morango,Goiaba
+usuario0727,Vargem Bonita,Tomate,Lichia,Gengibre,Limão,Brócolis
+usuario0728,Alexandre Gusmão,Atemóia,Lichia,Cebola,Limão,Uva
+usuario0729,Tabatinga,Goiaba,Beterraba,Cajamanga,Gengibre,Tangerina
+usuario0730,Planaltina,Graviola,Pitaia,Jiló,Quiabo,Batata
+usuario0731,Jardim,Repolho,Uva,Agrião,Couve,Pimentão
+usuario0732,Jardim,Mamão,Coco,Gengibre,Couve,Pepino
+usuario0733,Sobradinho,Cenoura,Cebola,Manga,Uva,Beterraba
+usuario0734,Sobradinho,Goiaba,Pepino,Couve,Abacate,Cebola
+usuario0735,Pipiripau,Pepino,Jiló,Cajamanga,Mamão,Atemóia
+usuario0736,Jardim,Abacate,Banana,Cebola,Pitaia,Goiaba
+usuario0737,Jardim,Manga,Beterraba,Tangerina,Tomate,Coco
+usuario0738,Paranoá,Alface,Mandioca,Abacate,Mamão,Cebola
+usuario0739,Alexandre Gusmão,Tangerina,Abacate,Manga,Mandioca,Limão
+usuario0740,Taquara,Cebola,Berinjela,Pitaia,Abóbora,Chuchu
+usuario0741,Plano Piloto,Cenoura,Gengibre,Cebola,Uva,Graviola
+usuario0742,Pipiripau,Berinjela,Brócolis,Banana,Abacate,Tangerina
+usuario0743,Taquara,Abóbora,Berinjela,Goiaba,Batata,Limão
+usuario0744,Ceilândia,Cajamanga,Jiló,Cebola,Pitaia,Quiabo
+usuario0745,Plano Piloto,Batata,Tomate,Morango,Repolho,Pimentão
+usuario0746,Tabatinga,Cebola,Atemóia,Cenoura,Abacate,Uva
+usuario0747,Tabatinga,Pitaia,Mamão,Tomate,Maracujá,Manga
+usuario0748,Ceilândia,Couve,Batata,Cebola,Cajamanga,Agrião
+usuario0749,São Sebastião,Tomate,Pimentão,Abacate,Beterraba,Jiló
+usuario0750,Planaltina,Berinjela,Pimentão,Couve,Morango,Coco
+usuario0751,São Sebastião,Abóbora,Banana,Goiaba,Limão,Graviola
+usuario0752,PAD-DF,Lichia,Jiló,Gengibre,Banana,Mamão
+usuario0753,Tabatinga,Quiabo,Jiló,Lichia,Chuchu,Maracujá
+usuario0754,Planaltina,Brócolis,Quiabo,Couve,Atemóia,Batata
+usuario0755,Gama,Manga,Repolho,Cenoura,Beterraba,Chuchu
+usuario0756,Plano Piloto,Tomate,Pepino,Alface,Abóbora,Batata
+usuario0757,Plano Piloto,Couve,Batata,Atemóia,Tomate,Alface
+usuario0758,Paranoá,Agrião,Cenoura,Chuchu,Graviola,Abóbora
+usuario0759,Pipiripau,Coco,Lichia,Abacate,Cenoura,Berinjela
+usuario0760,Ceilândia,Mandioca,Gengibre,Pimentão,Beterraba,Cebola
+usuario0761,Alexandre Gusmão,Uva,Pimentão,Alface,Limão,Abóbora
+usuario0762,Plano Piloto,Lichia,Brócolis,Gengibre,Maracujá,Pimentão
+usuario0763,Jardim,Goiaba,Cajamanga,Pitaia,Manga,Abóbora
+usuario0764,Gama,Graviola,Lichia,Tangerina,Banana,Beterraba
+usuario0765,Tabatinga,Tangerina,Abacate,Cebola,Repolho,Brócolis
+usuario0766,Gama,Graviola,Chuchu,Pepino,Pitaia,Cenoura
+usuario0767,Vargem Bonita,Beterraba,Cajamanga,Manga,Agrião,Cebola
+usuario0768,Alexandre Gusmão,Cajamanga,Cebola,Beterraba,Mamão,Limão
+usuario0769,PAD-DF,Alface,Abacate,Tangerina,Goiaba,Atemóia
+usuario0770,Alexandre Gusmão,Maracujá,Brócolis,Mamão,Limão,Banana
+usuario0771,Plano Piloto,Maracujá,Goiaba,Cajamanga,Tomate,Abóbora
+usuario0772,PAD-DF,Cenoura,Pitaia,Gengibre,Mamão,Alface
+usuario0773,Plano Piloto,Tomate,Mandioca,Uva,Batata,Banana
+usuario0774,PAD-DF,Mandioca,Limão,Cenoura,Graviola,Abóbora
+usuario0775,Vargem Bonita,Pitaia,Cajamanga,Abóbora,Berinjela,Mamão
+usuario0776,Vargem Bonita,Cajamanga,Abacate,Abóbora,Chuchu,Mandioca
+usuario0777,Alexandre Gusmão,Abóbora,Couve,Chuchu,Gengibre,Uva
+usuario0778,Tabatinga,Brócolis,Jiló,Maracujá,Atemóia,Cenoura
+usuario0779,São Sebastião,Pepino,Gengibre,Alface,Cebola,Batata
+usuario0780,Gama,Atemóia,Cebola,Berinjela,Agrião,Abacate
+usuario0781,Pipiripau,Brócolis,Agrião,Pimentão,Couve,Cajamanga
+usuario0782,Planaltina,Atemóia,Quiabo,Abacate,Cenoura,Gengibre
+usuario0783,Brazlândia,Graviola,Maracujá,Lichia,Abacate,Pitaia
+usuario0784,Sobradinho,Atemóia,Coco,Graviola,Uva,Mamão
+usuario0785,Pipiripau,Mandioca,Gengibre,Cenoura,Pepino,Banana
+usuario0786,Alexandre Gusmão,Batata,Abóbora,Tangerina,Morango,Banana
+usuario0787,Ceilândia,Cenoura,Limão,Lichia,Pepino,Couve
+usuario0788,Alexandre Gusmão,Abóbora,Pepino,Brócolis,Mandioca,Uva
+usuario0789,Paranoá,Tangerina,Gengibre,Couve,Mandioca,Brócolis
+usuario0790,Gama,Mamão,Berinjela,Morango,Limão,Tangerina
+usuario0791,Pipiripau,Agrião,Alface,Cebola,Banana,Mamão
+usuario0792,Pipiripau,Pimentão,Jiló,Mandioca,Couve,Brócolis
+usuario0793,Taquara,Gengibre,Agrião,Lichia,Couve,Chuchu
+usuario0794,Vargem Bonita,Gengibre,Graviola,Alface,Pitaia,Pepino
+usuario0795,Plano Piloto,Jiló,Brócolis,Chuchu,Cebola,Limão
+usuario0796,Brazlândia,Agrião,Morango,Cebola,Pitaia,Alface
+usuario0797,Jardim,Alface,Repolho,Chuchu,Pepino,Quiabo
+usuario0798,Pipiripau,Jiló,Tomate,Pimentão,Mamão,Cenoura
+usuario0799,Pipiripau,Alface,Berinjela,Uva,Batata,Atemóia
+usuario0800,Taquara,Jiló,Abóbora,Tomate,Mamão,Cenoura
+usuario0801,Ceilândia,Limão,Cebola,Maracujá,Jiló,Lichia
+usuario0802,Alexandre Gusmão,Gengibre,Brócolis,Pepino,Mamão,Chuchu
+usuario0803,Planaltina,Repolho,Manga,Couve,Brócolis,Agrião
+usuario0804,Paranoá,Quiabo,Atemóia,Tomate,Chuchu,Cajamanga
+usuario0805,Taquara,Tangerina,Graviola,Brócolis,Tomate,Morango
+usuario0806,Sobradinho,Cajamanga,Pimentão,Banana,Manga,Coco
+usuario0807,Jardim,Coco,Chuchu,Cajamanga,Jiló,Quiabo
+usuario0808,PAD-DF,Gengibre,Lichia,Agrião,Pitaia,Coco
+usuario0809,Planaltina,Repolho,Pepino,Berinjela,Graviola,Agrião
+usuario0810,Ceilândia,Berinjela,Gengibre,Goiaba,Couve,Coco
+usuario0811,Alexandre Gusmão,Batata,Beterraba,Tangerina,Atemóia,Cenoura
+usuario0812,Alexandre Gusmão,Abóbora,Chuchu,Brócolis,Graviola,Coco
+usuario0813,São Sebastião,Goiaba,Graviola,Pimentão,Couve,Jiló
+usuario0814,Jardim,Lichia,Berinjela,Mandioca,Uva,Repolho
+usuario0815,São Sebastião,Gengibre,Tangerina,Cebola,Mamão,Alface
+usuario0816,Sobradinho,Uva,Repolho,Berinjela,Manga,Agrião
+usuario0817,Sobradinho,Goiaba,Maracujá,Limão,Mamão,Quiabo
+usuario0818,Pipiripau,Mamão,Manga,Berinjela,Pimentão,Maracujá
+usuario0819,Alexandre Gusmão,Cajamanga,Repolho,Mandioca,Tangerina,Brócolis
+usuario0820,Planaltina,Graviola,Mandioca,Agrião,Cebola,Limão
+usuario0821,Pipiripau,Batata,Banana,Quiabo,Beterraba,Abóbora
+usuario0822,Gama,Alface,Pitaia,Limão,Repolho,Cebola
+usuario0823,Sobradinho,Couve,Agrião,Graviola,Pimentão,Chuchu
+usuario0824,Ceilândia,Beterraba,Cebola,Abacate,Alface,Brócolis
+usuario0825,Pipiripau,Mandioca,Banana,Batata,Cebola,Cajamanga
+usuario0826,Taquara,Pimentão,Beterraba,Banana,Pitaia,Tomate
+usuario0827,Jardim,Quiabo,Abóbora,Beterraba,Manga,Banana
+usuario0828,Pipiripau,Lichia,Cenoura,Alface,Jiló,Goiaba
+usuario0829,Planaltina,Coco,Couve,Alface,Abacate,Agrião
+usuario0830,São Sebastião,Atemóia,Coco,Maracujá,Pimentão,Manga
+usuario0831,Tabatinga,Tomate,Tangerina,Batata,Cajamanga,Goiaba
+usuario0832,Pipiripau,Uva,Lichia,Couve,Banana,Atemóia
+usuario0833,Sobradinho,Graviola,Goiaba,Morango,Cebola,Cenoura
+usuario0834,Brazlândia,Quiabo,Tangerina,Coco,Pimentão,Abóbora
+usuario0835,Jardim,Graviola,Cajamanga,Berinjela,Tangerina,Atemóia
+usuario0836,Alexandre Gusmão,Tangerina,Beterraba,Banana,Limão,Repolho
+usuario0837,Tabatinga,Chuchu,Abóbora,Pepino,Tangerina,Pimentão
+usuario0838,Paranoá,Mandioca,Alface,Jiló,Graviola,Chuchu
+usuario0839,Tabatinga,Uva,Cenoura,Agrião,Banana,Limão
+usuario0840,Tabatinga,Graviola,Tomate,Couve,Gengibre,Morango
+usuario0841,Pipiripau,Mamão,Maracujá,Jiló,Graviola,Lichia
+usuario0842,Taquara,Batata,Graviola,Limão,Pimentão,Lichia
+usuario0843,PAD-DF,Coco,Goiaba,Chuchu,Batata,Berinjela
+usuario0844,Vargem Bonita,Cajamanga,Abóbora,Banana,Pitaia,Mandioca
+usuario0845,Pipiripau,Uva,Pimentão,Graviola,Mamão,Lichia
+usuario0846,Ceilândia,Atemóia,Mandioca,Cebola,Abacate,Beterraba
+usuario0847,Alexandre Gusmão,Tangerina,Goiaba,Lichia,Uva,Coco
+usuario0848,Ceilândia,Pimentão,Graviola,Repolho,Atemóia,Cajamanga
+usuario0849,Planaltina,Couve,Pimentão,Morango,Manga,Agrião
+usuario0850,São Sebastião,Mandioca,Cajamanga,Coco,Jiló,Beterraba
+usuario0851,Gama,Abacate,Limão,Mamão,Cenoura,Maracujá
+usuario0852,Brazlândia,Tangerina,Cenoura,Quiabo,Jiló,Abacate
+usuario0853,Planaltina,Beterraba,Graviola,Tangerina,Cenoura,Quiabo
+usuario0854,PAD-DF,Tangerina,Coco,Cajamanga,Batata,Abacate
+usuario0855,Sobradinho,Cenoura,Uva,Agrião,Jiló,Pimentão
+usuario0856,Alexandre Gusmão,Couve,Limão,Morango,Atemóia,Mandioca
+usuario0857,Vargem Bonita,Repolho,Pimentão,Lichia,Pitaia,Quiabo
+usuario0858,Gama,Chuchu,Tangerina,Repolho,Cebola,Limão
+usuario0859,Brazlândia,Pimentão,Manga,Goiaba,Banana,Lichia
+usuario0860,Ceilândia,Abacate,Mamão,Batata,Maracujá,Abóbora
+usuario0861,Ceilândia,Abacate,Repolho,Couve,Alface,Goiaba
+usuario0862,São Sebastião,Abacate,Berinjela,Morango,Alface,Jiló
+usuario0863,Plano Piloto,Pimentão,Atemóia,Morango,Banana,Berinjela
+usuario0864,Alexandre Gusmão,Brócolis,Tangerina,Berinjela,Abacate,Pimentão
+usuario0865,Pipiripau,Quiabo,Abacate,Abóbora,Banana,Goiaba
+usuario0866,Taquara,Berinjela,Abóbora,Limão,Gengibre,Alface
+usuario0867,Jardim,Manga,Jiló,Goiaba,Banana,Batata
+usuario0868,PAD-DF,Couve,Brócolis,Coco,Abacate,Gengibre
+usuario0869,Vargem Bonita,Tangerina,Lichia,Mamão,Coco,Agrião
+usuario0870,Tabatinga,Morango,Cajamanga,Quiabo,Goiaba,Lichia
+usuario0871,São Sebastião,Tangerina,Gengibre,Lichia,Mamão,Goiaba
+usuario0872,Jardim,Batata,Cajamanga,Coco,Tangerina,Pimentão
+usuario0873,São Sebastião,Jiló,Lichia,Uva,Pimentão,Brócolis
+usuario0874,Jardim,Banana,Limão,Pitaia,Chuchu,Tomate
+usuario0875,Ceilândia,Jiló,Goiaba,Limão,Banana,Mandioca
+usuario0876,Sobradinho,Maracujá,Agrião,Pepino,Alface,Tangerina
+usuario0877,Alexandre Gusmão,Abacate,Quiabo,Couve,Cenoura,Repolho
+usuario0878,Planaltina,Mamão,Jiló,Gengibre,Cenoura,Morango
+usuario0879,Planaltina,Abacate,Pimentão,Goiaba,Atemóia,Gengibre
+usuario0880,Jardim,Cebola,Chuchu,Tomate,Goiaba,Agrião
+usuario0881,Brazlândia,Atemóia,Lichia,Alface,Beterraba,Uva
+usuario0882,Vargem Bonita,Cenoura,Abacate,Tangerina,Gengibre,Jiló
+usuario0883,Paranoá,Pepino,Morango,Pitaia,Alface,Mandioca
+usuario0884,Jardim,Couve,Brócolis,Manga,Mamão,Pimentão
+usuario0885,PAD-DF,Atemóia,Cajamanga,Pimentão,Jiló,Limão
+usuario0886,Brazlândia,Agrião,Abacate,Manga,Tomate,Mandioca
+usuario0887,Vargem Bonita,Coco,Morango,Alface,Goiaba,Uva
+usuario0888,Gama,Quiabo,Maracujá,Cajamanga,Morango,Mandioca
+usuario0889,Ceilândia,Alface,Limão,Batata,Manga,Cebola
+usuario0890,Gama,Manga,Mamão,Repolho,Morango,Atemóia
+usuario0891,Gama,Agrião,Couve,Quiabo,Goiaba,Tangerina
+usuario0892,Tabatinga,Pimentão,Graviola,Maracujá,Morango,Mandioca
+usuario0893,Paranoá,Goiaba,Gengibre,Banana,Limão,Atemóia
+usuario0894,PAD-DF,Quiabo,Abacate,Alface,Jiló,Graviola
+usuario0895,Tabatinga,Alface,Mandioca,Graviola,Batata,Atemóia
+usuario0896,Alexandre Gusmão,Berinjela,Pepino,Graviola,Mandioca,Jiló
+usuario0897,Alexandre Gusmão,Brócolis,Banana,Mandioca,Maracujá,Uva
+usuario0898,Brazlândia,Manga,Goiaba,Lichia,Cajamanga,Tangerina
+usuario0899,Vargem Bonita,Limão,Couve,Banana,Lichia,Quiabo
+usuario0900,Pipiripau,Quiabo,Coco,Mandioca,Alface,Maracujá
+usuario0901,Ceilândia,Mamão,Maracujá,Couve,Cebola,Pimentão
+usuario0902,São Sebastião,Abóbora,Pitaia,Quiabo,Mandioca,Uva
+usuario0903,Vargem Bonita,Cajamanga,Lichia,Berinjela,Agrião,Uva
+usuario0904,Pipiripau,Pitaia,Pimentão,Graviola,Chuchu,Banana
+usuario0905,Ceilândia,Tangerina,Agrião,Limão,Graviola,Cenoura
+usuario0906,Vargem Bonita,Mamão,Abóbora,Mandioca,Goiaba,Gengibre
+usuario0907,Pipiripau,Tomate,Mamão,Pitaia,Limão,Cenoura
+usuario0908,Tabatinga,Cebola,Beterraba,Lichia,Manga,Tangerina
+usuario0909,Ceilândia,Mandioca,Jiló,Agrião,Atemóia,Goiaba
+usuario0910,Taquara,Lichia,Abacate,Mamão,Agrião,Berinjela
+usuario0911,Paranoá,Graviola,Batata,Tangerina,Pimentão,Morango
+usuario0912,Brazlândia,Cebola,Abóbora,Banana,Pimentão,Maracujá
+usuario0913,Alexandre Gusmão,Tomate,Lichia,Pimentão,Abacate,Cebola
+usuario0914,Brazlândia,Lichia,Morango,Agrião,Limão,Quiabo
+usuario0915,Gama,Cebola,Mamão,Chuchu,Batata,Coco
+usuario0916,Vargem Bonita,Agrião,Pepino,Chuchu,Abóbora,Cenoura
+usuario0917,Brazlândia,Pepino,Goiaba,Alface,Uva,Beterraba
+usuario0918,Vargem Bonita,Pitaia,Beterraba,Chuchu,Manga,Cajamanga
+usuario0919,Sobradinho,Tangerina,Couve,Beterraba,Cebola,Banana
+usuario0920,Plano Piloto,Manga,Brócolis,Graviola,Jiló,Pitaia
+usuario0921,Brazlândia,Beterraba,Manga,Uva,Atemóia,Morango
+usuario0922,Planaltina,Pepino,Uva,Berinjela,Alface,Mamão
+usuario0923,Paranoá,Chuchu,Banana,Agrião,Alface,Brócolis
+usuario0924,Planaltina,Jiló,Goiaba,Cebola,Tomate,Batata
+usuario0925,PAD-DF,Beterraba,Banana,Brócolis,Alface,Morango
+usuario0926,Brazlândia,Coco,Tomate,Cajamanga,Pimentão,Atemóia
+usuario0927,PAD-DF,Batata,Gengibre,Lichia,Quiabo,Cenoura
+usuario0928,Ceilândia,Cebola,Gengibre,Lichia,Pitaia,Graviola
+usuario0929,PAD-DF,Gengibre,Abóbora,Couve,Abacate,Coco
+usuario0930,Plano Piloto,Tomate,Agrião,Limão,Coco,Goiaba
+usuario0931,Taquara,Limão,Brócolis,Batata,Chuchu,Beterraba
+usuario0932,Alexandre Gusmão,Graviola,Pitaia,Limão,Chuchu,Beterraba
+usuario0933,Ceilândia,Morango,Cebola,Manga,Lichia,Couve
+usuario0934,Plano Piloto,Pepino,Tangerina,Banana,Mandioca,Tomate
+usuario0935,PAD-DF,Mandioca,Repolho,Manga,Banana,Couve
+usuario0936,Plano Piloto,Morango,Tomate,Graviola,Coco,Abacate
+usuario0937,Tabatinga,Manga,Limão,Beterraba,Berinjela,Maracujá
+usuario0938,Sobradinho,Uva,Coco,Mandioca,Manga,Mamão
+usuario0939,Taquara,Pitaia,Morango,Cajamanga,Abacate,Jiló
+usuario0940,Tabatinga,Couve,Quiabo,Agrião,Goiaba,Limão
+usuario0941,Brazlândia,Atemóia,Abacate,Coco,Mamão,Batata
+usuario0942,Pipiripau,Brócolis,Mamão,Alface,Pimentão,Couve
+usuario0943,Plano Piloto,Pitaia,Cajamanga,Coco,Limão,Mandioca
+usuario0944,Ceilândia,Morango,Couve,Pitaia,Banana,Atemóia
+usuario0945,Ceilândia,Cajamanga,Graviola,Abacate,Mamão,Uva
+usuario0946,Ceilândia,Mandioca,Banana,Pimentão,Cenoura,Couve
+usuario0947,Vargem Bonita,Brócolis,Graviola,Alface,Tomate,Quiabo
+usuario0948,Alexandre Gusmão,Manga,Graviola,Cajamanga,Agrião,Alface
+usuario0949,Paranoá,Pitaia,Mamão,Cenoura,Limão,Quiabo
+usuario0950,PAD-DF,Pimentão,Alface,Batata,Limão,Morango
+usuario0951,Alexandre Gusmão,Pimentão,Berinjela,Couve,Brócolis,Gengibre
+usuario0952,Ceilândia,Maracujá,Abacate,Mandioca,Tangerina,Batata
+usuario0953,Plano Piloto,Mandioca,Agrião,Uva,Gengibre,Pepino
+usuario0954,Brazlândia,Repolho,Agrião,Coco,Lichia,Couve
+usuario0955,Jardim,Pepino,Coco,Repolho,Batata,Couve
+usuario0956,Jardim,Limão,Berinjela,Mamão,Maracujá,Agrião
+usuario0957,São Sebastião,Berinjela,Quiabo,Cajamanga,Graviola,Goiaba
+usuario0958,Paranoá,Alface,Beterraba,Brócolis,Jiló,Manga
+usuario0959,Alexandre Gusmão,Cenoura,Cajamanga,Beterraba,Alface,Jiló
+usuario0960,São Sebastião,Mandioca,Berinjela,Banana,Pimentão,Limão
+usuario0961,Plano Piloto,Banana,Quiabo,Coco,Jiló,Graviola
+usuario0962,Paranoá,Berinjela,Limão,Batata,Beterraba,Graviola
+usuario0963,Ceilândia,Goiaba,Batata,Banana,Pimentão,Cebola
+usuario0964,Paranoá,Beterraba,Batata,Atemóia,Abacate,Alface
+usuario0965,Brazlândia,Uva,Goiaba,Beterraba,Cenoura,Cebola
+usuario0966,Sobradinho,Quiabo,Uva,Morango,Cebola,Berinjela
+usuario0967,Vargem Bonita,Mandioca,Tangerina,Couve,Gengibre,Berinjela
+usuario0968,Plano Piloto,Gengibre,Atemóia,Mamão,Repolho,Couve
+usuario0969,Taquara,Pepino,Pitaia,Limão,Berinjela,Beterraba
+usuario0970,Tabatinga,Mandioca,Pepino,Tangerina,Gengibre,Maracujá
+usuario0971,Taquara,Limão,Brócolis,Berinjela,Chuchu,Pimentão
+usuario0972,Vargem Bonita,Morango,Beterraba,Berinjela,Atemóia,Quiabo
+usuario0973,Taquara,Abacate,Agrião,Banana,Repolho,Mamão
+usuario0974,Gama,Berinjela,Mandioca,Coco,Beterraba,Quiabo
+usuario0975,Taquara,Brócolis,Abacate,Goiaba,Pitaia,Chuchu
+usuario0976,Pipiripau,Lichia,Tangerina,Repolho,Agrião,Morango
+usuario0977,Gama,Repolho,Lichia,Manga,Tomate,Cenoura
+usuario0978,São Sebastião,Chuchu,Graviola,Berinjela,Pepino,Agrião
+usuario0979,Brazlândia,Goiaba,Cebola,Repolho,Chuchu,Tomate
+usuario0980,Brazlândia,Couve,Pitaia,Cajamanga,Pepino,Maracujá
+usuario0981,Ceilândia,Tomate,Beterraba,Batata,Berinjela,Lichia
+usuario0982,São Sebastião,Repolho,Jiló,Pitaia,Pepino,Beterraba
+usuario0983,Brazlândia,Pitaia,Limão,Atemóia,Gengibre,Pimentão
+usuario0984,Tabatinga,Pepino,Batata,Morango,Pitaia,Tomate
+usuario0985,Jardim,Coco,Graviola,Uva,Pepino,Tangerina
+usuario0986,Ceilândia,Alface,Tangerina,Banana,Graviola,Tomate
+usuario0987,PAD-DF,Couve,Jiló,Pitaia,Repolho,Atemóia
+usuario0988,PAD-DF,Banana,Cebola,Graviola,Chuchu,Beterraba
+usuario0989,Gama,Chuchu,Goiaba,Agrião,Maracujá,Gengibre
+usuario0990,Sobradinho,Mandioca,Lichia,Banana,Limão,Tomate
+usuario0991,São Sebastião,Repolho,Coco,Chuchu,Manga,Couve
+usuario0992,Jardim,Couve,Lichia,Banana,Mandioca,Pimentão
+usuario0993,Paranoá,Lichia,Cenoura,Chuchu,Pepino,Atemóia
+usuario0994,Vargem Bonita,Brócolis,Maracujá,Pimentão,Manga,Mamão
+usuario0995,Pipiripau,Lichia,Limão,Tangerina,Brócolis,Tomate
+usuario0996,Sobradinho,Abacate,Cenoura,Brócolis,Pimentão,Pepino
+usuario0997,PAD-DF,Repolho,Couve,Cenoura,Maracujá,Brócolis
+usuario0998,Ceilândia,Graviola,Coco,Agrião,Uva,Pitaia
+usuario0999,Brazlândia,Manga,Alface,Banana,Maracujá,Jiló
+usuario1000,Paranoá,Limão,Maracujá,Couve,Pitaia,Lichia
