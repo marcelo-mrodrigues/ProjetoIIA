@@ -5,3 +5,5 @@ folium
 django
 flask
 openrouteservice
+numpy
+scikit-learn
