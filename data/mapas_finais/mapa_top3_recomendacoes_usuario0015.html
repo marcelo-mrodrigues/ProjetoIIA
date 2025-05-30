@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_43462a5879fc95ba4c4c6e01be2a57a2 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_43462a5879fc95ba4c4c6e01be2a57a2" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_43462a5879fc95ba4c4c6e01be2a57a2 = L.map(
+                "map_43462a5879fc95ba4c4c6e01be2a57a2",
+                {
+                    center: [0.0, 0.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 1,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_99a6e21c750f2cf877d63c81183d183c = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_99a6e21c750f2cf877d63c81183d183c.addTo(map_43462a5879fc95ba4c4c6e01be2a57a2);
+        
+    
+            var marker_51ee13dfbd3a28564a7008870e0a82ef = L.marker(
+                [-15.7883176, -47.9186394],
+                {
+}
+            ).addTo(map_43462a5879fc95ba4c4c6e01be2a57a2);
+        
+    
+            var icon_a7631e8714237f4675be2180619b471b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "home",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c2d0fbfc8e1f350533b389c5cbe252dd = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_75b97a1f03e709ab965b3408ddbd9ae3 = $(`<div id="html_75b97a1f03e709ab965b3408ddbd9ae3" style="width: 100.0%; height: 100.0%;"><b>Sua Localização</b><br>Setor Sudoeste, Brasília, DF</div>`)[0];
+                popup_c2d0fbfc8e1f350533b389c5cbe252dd.setContent(html_75b97a1f03e709ab965b3408ddbd9ae3);
+            
+        
+
+        marker_51ee13dfbd3a28564a7008870e0a82ef.bindPopup(popup_c2d0fbfc8e1f350533b389c5cbe252dd)
+        ;
+
+        
+    
+    
+            marker_51ee13dfbd3a28564a7008870e0a82ef.bindTooltip(
+                `<div>
+                     Sua Localização
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_51ee13dfbd3a28564a7008870e0a82ef.setIcon(icon_a7631e8714237f4675be2180619b471b);
+            
+    
+            var marker_8593fe25a9a265a0c6569a1031c75143 = L.marker(
+                [-15.81459, -47.98497],
+                {
+}
+            ).addTo(map_43462a5879fc95ba4c4c6e01be2a57a2);
+        
+    
+            var icon_a0d438787846acf5ad7c9ad18c8a472d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "shopping-basket",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_cb6ee487c6d93507728fa3f882afc01e = L.popup({
+  "maxWidth": 350,
+});
+
+        
+            
+                var html_3bd8c437315b8ed4025d2a69333cdea8 = $(`<div id="html_3bd8c437315b8ed4025d2a69333cdea8" style="width: 100.0%; height: 100.0%;"><b>3. Associação dos Trabalhadores Rurais da Agricultura Familiar do Assentamento Chapadinha (Astraf)</b><br><hr><b>Localidade:</b> Guará<br><b>Score:</b> 0.88<br><b>Distância:</b> 7.68 km<br><hr><b>🛍️ Produtos recomendados aqui:</b><br>&bull; Limão (Orgânico ✔️) [4.0/5]<br>&bull; Pitaia (Orgânico ✔️) [3.7/5]<br>&bull; Morango (Orgânico ✔️) [3.8/5]</div>`)[0];
+                popup_cb6ee487c6d93507728fa3f882afc01e.setContent(html_3bd8c437315b8ed4025d2a69333cdea8);
+            
+        
+
+        marker_8593fe25a9a265a0c6569a1031c75143.bindPopup(popup_cb6ee487c6d93507728fa3f882afc01e)
+        ;
+
+        
+    
+    
+            marker_8593fe25a9a265a0c6569a1031c75143.bindTooltip(
+                `<div>
+                     Associação dos Trabalhadores Rurais da Agricultura Familiar do Assentamento Chapadinha (Astraf) (Score: 0.88)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_8593fe25a9a265a0c6569a1031c75143.setIcon(icon_a0d438787846acf5ad7c9ad18c8a472d);
+            
+    
+            var marker_a7b3487e33f5b42a22d9c20dcee70fb2 = L.marker(
+                [-15.81459, -47.98497],
+                {
+}
+            ).addTo(map_43462a5879fc95ba4c4c6e01be2a57a2);
+        
+    
+            var icon_85890c04cecbc1d22273e0b71d94dbfd = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "shopping-basket",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a71a759f28126a8fca660ff6e143ca12 = L.popup({
+  "maxWidth": 350,
+});
+
+        
+            
+                var html_3d3dcba84e81fd489404d0eeceee3f56 = $(`<div id="html_3d3dcba84e81fd489404d0eeceee3f56" style="width: 100.0%; height: 100.0%;"><b>2. Associação dos Produtores da Agricultura Familiar (Aspaf)</b><br><hr><b>Localidade:</b> Guará<br><b>Score:</b> 0.83<br><b>Distância:</b> 7.68 km<br><hr><b>🛍️ Produtos recomendados aqui:</b><br>&bull; Limão (Orgânico ✔️) [4.0/5]<br>&bull; Pitaia (Orgânico ✔️) [3.7/5]</div>`)[0];
+                popup_a71a759f28126a8fca660ff6e143ca12.setContent(html_3d3dcba84e81fd489404d0eeceee3f56);
+            
+        
+
+        marker_a7b3487e33f5b42a22d9c20dcee70fb2.bindPopup(popup_a71a759f28126a8fca660ff6e143ca12)
+        ;
+
+        
+    
+    
+            marker_a7b3487e33f5b42a22d9c20dcee70fb2.bindTooltip(
+                `<div>
+                     Associação dos Produtores da Agricultura Familiar (Aspaf) (Score: 0.83)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_a7b3487e33f5b42a22d9c20dcee70fb2.setIcon(icon_85890c04cecbc1d22273e0b71d94dbfd);
+            
+    
+            var marker_0645a464d86c5d954ad36e7fceaabca5 = L.marker(
+                [-15.794229, -47.882166],
+                {
+}
+            ).addTo(map_43462a5879fc95ba4c4c6e01be2a57a2);
+        
+    
+            var icon_3e862f3074ded642fe6a08616b396ddc = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkred",
+  "iconColor": "white",
+  "icon": "shopping-basket",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_9e70183edc7fbf7e5c7dfbe624eae0fc = L.popup({
+  "maxWidth": 350,
+});
+
+        
+            
+                var html_ac54da5637231a97c506026834cf760b = $(`<div id="html_ac54da5637231a97c506026834cf760b" style="width: 100.0%; height: 100.0%;"><b>15. Cooperativa dos Produtores Rurais de Planaltina de Goiás e Região (Prorural)</b><br><hr><b>Localidade:</b> Plano Piloto<br><b>Score:</b> 0.81<br><b>Distância:</b> 3.96 km<br><hr><b>🛍️ Produtos recomendados aqui:</b><br>&bull; Agrião [3.8/5]<br>&bull; Tomate (Orgânico ✔️) [3.8/5]<br>&bull; Morango (Orgânico ✔️) [3.8/5]<br>&bull; Pepino (Orgânico ✔️) [4.0/5]</div>`)[0];
+                popup_9e70183edc7fbf7e5c7dfbe624eae0fc.setContent(html_ac54da5637231a97c506026834cf760b);
+            
+        
+
+        marker_0645a464d86c5d954ad36e7fceaabca5.bindPopup(popup_9e70183edc7fbf7e5c7dfbe624eae0fc)
+        ;
+
+        
+    
+    
+            marker_0645a464d86c5d954ad36e7fceaabca5.bindTooltip(
+                `<div>
+                     Cooperativa dos Produtores Rurais de Planaltina de Goiás e Região (Prorural) (Score: 0.81)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_0645a464d86c5d954ad36e7fceaabca5.setIcon(icon_3e862f3074ded642fe6a08616b396ddc);
+            
+    
+            map_43462a5879fc95ba4c4c6e01be2a57a2.fitBounds(
+                [[-15.7883176, -47.9186394], [-15.81459, -47.98497], [-15.81459, -47.98497], [-15.794229, -47.882166]],
+                {}
+            );
+        
+    
+            var layer_control_2e3b85b863b4c6a17761b577f58adcb2_layers = {
+                base_layers : {
+                    "openstreetmap" : tile_layer_99a6e21c750f2cf877d63c81183d183c,
+                },
+                overlays :  {
+                },
+            };
+            let layer_control_2e3b85b863b4c6a17761b577f58adcb2 = L.control.layers(
+                layer_control_2e3b85b863b4c6a17761b577f58adcb2_layers.base_layers,
+                layer_control_2e3b85b863b4c6a17761b577f58adcb2_layers.overlays,
+                {
+  "position": "topright",
+  "collapsed": true,
+  "autoZIndex": true,
+}
+            ).addTo(map_43462a5879fc95ba4c4c6e01be2a57a2);
+
+        
+</script>
+</html>

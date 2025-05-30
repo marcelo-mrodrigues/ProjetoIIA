@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_b483d3a62bd7c9feb9a166e4b37a9177 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_b483d3a62bd7c9feb9a166e4b37a9177" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_b483d3a62bd7c9feb9a166e4b37a9177 = L.map(
+                "map_b483d3a62bd7c9feb9a166e4b37a9177",
+                {
+                    center: [-15.8355997, -48.0339063],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 12,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_585260d49a511abec6d25b3411f6f45d = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_585260d49a511abec6d25b3411f6f45d.addTo(map_b483d3a62bd7c9feb9a166e4b37a9177);
+        
+    
+            var marker_f5a29ffbaf2f062bcfdb03bd4603ead0 = L.marker(
+                [-15.8355997, -48.0339063],
+                {
+}
+            ).addTo(map_b483d3a62bd7c9feb9a166e4b37a9177);
+        
+    
+            var icon_7780c46915d7a316ab92f34937e8169f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "home",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_47b9ca9ec8ac2ca6fcf2c3ddcd8c6e31 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ffed2c4a61edf51f13709ff8234ba0f8 = $(`<div id="html_ffed2c4a61edf51f13709ff8234ba0f8" style="width: 100.0%; height: 100.0%;"><b>Sua Localização</b><br>AV parque aguas claras 3305, Brasília, DF</div>`)[0];
+                popup_47b9ca9ec8ac2ca6fcf2c3ddcd8c6e31.setContent(html_ffed2c4a61edf51f13709ff8234ba0f8);
+            
+        
+
+        marker_f5a29ffbaf2f062bcfdb03bd4603ead0.bindPopup(popup_47b9ca9ec8ac2ca6fcf2c3ddcd8c6e31)
+        ;
+
+        
+    
+    
+            marker_f5a29ffbaf2f062bcfdb03bd4603ead0.bindTooltip(
+                `<div>
+                     Sua Localização
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_f5a29ffbaf2f062bcfdb03bd4603ead0.setIcon(icon_7780c46915d7a316ab92f34937e8169f);
+            
+    
+            var marker_c75245843ff736ec83548350091501cc = L.marker(
+                [-15.81459, -47.98497],
+                {
+}
+            ).addTo(map_b483d3a62bd7c9feb9a166e4b37a9177);
+        
+    
+            var icon_c27c7c7bf9ad069747ae096e99a6ad50 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "shopping-basket",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5d1aa5166b8c7035a196f904d1513585 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a4ec7b402f25b581afdb7ce194c2531c = $(`<div id="html_a4ec7b402f25b581afdb7ce194c2531c" style="width: 100.0%; height: 100.0%;"><b>📍 Associação dos Produtores da Agricultura Familiar (Aspaf)</b><br><hr><b>Distância (reta):</b> 5.73 km<br><i>Rota pela estrada não pôde ser calculada.</i><br><hr><b>🛍️ Produtos recomendados aqui:</b><br>&bull; Abacate (Orgânico ✔️) [4.0/5]<br>&bull; Jiló (Orgânico ✔️) [3.8/5]<br>&bull; Couve (Orgânico ✔️) [3.4/5]</div>`)[0];
+                popup_5d1aa5166b8c7035a196f904d1513585.setContent(html_a4ec7b402f25b581afdb7ce194c2531c);
+            
+        
+
+        marker_c75245843ff736ec83548350091501cc.bindPopup(popup_5d1aa5166b8c7035a196f904d1513585)
+        ;
+
+        
+    
+    
+            marker_c75245843ff736ec83548350091501cc.bindTooltip(
+                `<div>
+                     Associação dos Produtores da Agricultura Familiar (Aspaf) (5.7 km)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_c75245843ff736ec83548350091501cc.setIcon(icon_c27c7c7bf9ad069747ae096e99a6ad50);
+            
+    
+            var poly_line_54445529b4b80b5e0265b17ac68c2572 = L.polyline(
+                [[-15.8355997, -48.0339063], [-15.81459, -47.98497]],
+                {"bubblingMouseEvents": true, "color": "grey", "dashArray": "5, 5", "dashOffset": null, "fill": false, "fillColor": "grey", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 2}
+            ).addTo(map_b483d3a62bd7c9feb9a166e4b37a9177);
+        
+    
+            poly_line_54445529b4b80b5e0265b17ac68c2572.bindTooltip(
+                `<div>
+                     Linha reta (rota não calculada)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var layer_control_0716009674a72ac0d8ef49d949ae7d4f_layers = {
+                base_layers : {
+                    "openstreetmap" : tile_layer_585260d49a511abec6d25b3411f6f45d,
+                },
+                overlays :  {
+                },
+            };
+            let layer_control_0716009674a72ac0d8ef49d949ae7d4f = L.control.layers(
+                layer_control_0716009674a72ac0d8ef49d949ae7d4f_layers.base_layers,
+                layer_control_0716009674a72ac0d8ef49d949ae7d4f_layers.overlays,
+                {
+  "position": "topright",
+  "collapsed": true,
+  "autoZIndex": true,
+}
+            ).addTo(map_b483d3a62bd7c9feb9a166e4b37a9177);
+
+        
+</script>
+</html>

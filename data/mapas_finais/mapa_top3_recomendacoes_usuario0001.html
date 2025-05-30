@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_45e99774f006990f1f20eb9843b76508 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_45e99774f006990f1f20eb9843b76508" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_45e99774f006990f1f20eb9843b76508 = L.map(
+                "map_45e99774f006990f1f20eb9843b76508",
+                {
+                    center: [0.0, 0.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 1,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_70eecc8ec89302db37a81fb18291332e = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_70eecc8ec89302db37a81fb18291332e.addTo(map_45e99774f006990f1f20eb9843b76508);
+        
+    
+            var marker_8774255facac191930ae8a78c2964b6c = L.marker(
+                [-15.8335277, -48.0565716],
+                {
+}
+            ).addTo(map_45e99774f006990f1f20eb9843b76508);
+        
+    
+            var icon_d3e05b83c6eec5bd448590db2999d5f1 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "home",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_782c9d65c52c73ab4123a21b0828e317 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2a67441ab72c67fdcbafc81fb20914f6 = $(`<div id="html_2a67441ab72c67fdcbafc81fb20914f6" style="width: 100.0%; height: 100.0%;"><b>Sua Localização</b><br>taguatinga, Brasília, DF</div>`)[0];
+                popup_782c9d65c52c73ab4123a21b0828e317.setContent(html_2a67441ab72c67fdcbafc81fb20914f6);
+            
+        
+
+        marker_8774255facac191930ae8a78c2964b6c.bindPopup(popup_782c9d65c52c73ab4123a21b0828e317)
+        ;
+
+        
+    
+    
+            marker_8774255facac191930ae8a78c2964b6c.bindTooltip(
+                `<div>
+                     Sua Localização
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_8774255facac191930ae8a78c2964b6c.setIcon(icon_d3e05b83c6eec5bd448590db2999d5f1);
+            
+    
+            var marker_8fa33d1432fe8df02976e49f4d6caf75 = L.marker(
+                [-15.82026, -48.11598],
+                {
+}
+            ).addTo(map_45e99774f006990f1f20eb9843b76508);
+        
+    
+            var icon_1b3b22ea96162688bd8d872140e3a9c7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "shopping-basket",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4164b822040251e20206158824ba4ab2 = L.popup({
+  "maxWidth": 350,
+});
+
+        
+            
+                var html_a9b17929e48ffe7cc55f761e6ac7b37a = $(`<div id="html_a9b17929e48ffe7cc55f761e6ac7b37a" style="width: 100.0%; height: 100.0%;"><b>6. Associação dos Produtores Rurais Orgânicos e Convencionais do Distrito Federal e Entorno (Asproc)</b><br><hr><b>Localidade:</b> Ceilândia<br><b>Score:</b> 1.00<br><b>Distância:</b> 6.53 km<br><hr><b>🛍️ Produtos recomendados aqui:</b><br>&bull; Mamão (Orgânico ✔️) [4.0/5]<br>&bull; Chuchu (Orgânico ✔️) [4.2/5]<br>&bull; Banana (Orgânico ✔️) [4.0/5]<br>&bull; Maracujá (Orgânico ✔️) [4.2/5]</div>`)[0];
+                popup_4164b822040251e20206158824ba4ab2.setContent(html_a9b17929e48ffe7cc55f761e6ac7b37a);
+            
+        
+
+        marker_8fa33d1432fe8df02976e49f4d6caf75.bindPopup(popup_4164b822040251e20206158824ba4ab2)
+        ;
+
+        
+    
+    
+            marker_8fa33d1432fe8df02976e49f4d6caf75.bindTooltip(
+                `<div>
+                     Associação dos Produtores Rurais Orgânicos e Convencionais do Distrito Federal e Entorno (Asproc) (Score: 1.00)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_8fa33d1432fe8df02976e49f4d6caf75.setIcon(icon_1b3b22ea96162688bd8d872140e3a9c7);
+            
+    
+            var marker_d16591c734e7a76d2b86908a12b3c4c6 = L.marker(
+                [-15.82026, -48.11598],
+                {
+}
+            ).addTo(map_45e99774f006990f1f20eb9843b76508);
+        
+    
+            var icon_9c40a2997351808b951f90ac029235dc = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "shopping-basket",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8e11b0e8e8ec352f0cb92773434b549f = L.popup({
+  "maxWidth": 350,
+});
+
+        
+            
+                var html_b4ddcc1fe678a1217beb0a24f87531d4 = $(`<div id="html_b4ddcc1fe678a1217beb0a24f87531d4" style="width: 100.0%; height: 100.0%;"><b>2. Associação dos Produtores Rurais Novo Horizonte Betinho (Aspronte)</b><br><hr><b>Localidade:</b> Ceilândia<br><b>Score:</b> 0.90<br><b>Distância:</b> 6.53 km<br><hr><b>🛍️ Produtos recomendados aqui:</b><br>&bull; Brócolis (Orgânico ✔️) [3.8/5]<br>&bull; Chuchu (Orgânico ✔️) [4.2/5]</div>`)[0];
+                popup_8e11b0e8e8ec352f0cb92773434b549f.setContent(html_b4ddcc1fe678a1217beb0a24f87531d4);
+            
+        
+
+        marker_d16591c734e7a76d2b86908a12b3c4c6.bindPopup(popup_8e11b0e8e8ec352f0cb92773434b549f)
+        ;
+
+        
+    
+    
+            marker_d16591c734e7a76d2b86908a12b3c4c6.bindTooltip(
+                `<div>
+                     Associação dos Produtores Rurais Novo Horizonte Betinho (Aspronte) (Score: 0.90)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_d16591c734e7a76d2b86908a12b3c4c6.setIcon(icon_9c40a2997351808b951f90ac029235dc);
+            
+    
+            var marker_8239a704a866ceb17dfffbe7b85fcd77 = L.marker(
+                [-15.82026, -48.11598],
+                {
+}
+            ).addTo(map_45e99774f006990f1f20eb9843b76508);
+        
+    
+            var icon_4f6df87df16bf505bb38a48ef4721f7b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkred",
+  "iconColor": "white",
+  "icon": "shopping-basket",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_50bb5174657e117ae9e397d34339a0e9 = L.popup({
+  "maxWidth": 350,
+});
+
+        
+            
+                var html_af83fb3005bafb1d80566228089de120 = $(`<div id="html_af83fb3005bafb1d80566228089de120" style="width: 100.0%; height: 100.0%;"><b>5. Cooperativa Agrícola da Região de Planaltina (Cootaquara)</b><br><hr><b>Localidade:</b> Ceilândia<br><b>Score:</b> 0.86<br><b>Distância:</b> 6.53 km<br><hr><b>🛍️ Produtos recomendados aqui:</b><br>&bull; Mamão (Orgânico ✔️) [4.0/5]<br>&bull; Banana (Orgânico ✔️) [4.0/5]<br>&bull; Maracujá (Orgânico ✔️) [4.2/5]</div>`)[0];
+                popup_50bb5174657e117ae9e397d34339a0e9.setContent(html_af83fb3005bafb1d80566228089de120);
+            
+        
+
+        marker_8239a704a866ceb17dfffbe7b85fcd77.bindPopup(popup_50bb5174657e117ae9e397d34339a0e9)
+        ;
+
+        
+    
+    
+            marker_8239a704a866ceb17dfffbe7b85fcd77.bindTooltip(
+                `<div>
+                     Cooperativa Agrícola da Região de Planaltina (Cootaquara) (Score: 0.86)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_8239a704a866ceb17dfffbe7b85fcd77.setIcon(icon_4f6df87df16bf505bb38a48ef4721f7b);
+            
+    
+            map_45e99774f006990f1f20eb9843b76508.fitBounds(
+                [[-15.8335277, -48.0565716], [-15.82026, -48.11598], [-15.82026, -48.11598], [-15.82026, -48.11598]],
+                {}
+            );
+        
+    
+            var layer_control_0d83664b117d4948c2154fb321568e96_layers = {
+                base_layers : {
+                    "openstreetmap" : tile_layer_70eecc8ec89302db37a81fb18291332e,
+                },
+                overlays :  {
+                },
+            };
+            let layer_control_0d83664b117d4948c2154fb321568e96 = L.control.layers(
+                layer_control_0d83664b117d4948c2154fb321568e96_layers.base_layers,
+                layer_control_0d83664b117d4948c2154fb321568e96_layers.overlays,
+                {
+  "position": "topright",
+  "collapsed": true,
+  "autoZIndex": true,
+}
+            ).addTo(map_45e99774f006990f1f20eb9843b76508);
+
+        
+</script>
+</html>
